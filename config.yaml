@@ -1,0 +1,72 @@
+baseURL: https://theodoorthomas.com
+title: TheodoorThomas # todo: change site name.
+defaultContentLanguage: 'en'
+theme: eternity
+googleAnalytics: '' # todo: set your analytics id.
+
+params:
+  image: /images/banner.png
+  subtitle: I create still images like a tourist, a visual artist. I bend the truth like a lens bends light, a visual narrative of strangers but exclusively about myself.
+  copyright: All rights reserved.
+  author: Theodoor Thomas
+  dontShowSource: false # please, do not do this :)
+  portfolio:
+    columns:
+      desktop:
+        life-in-tone: 4
+        archive: 6
+        life-in-contrast: 4
+        default: 3
+        phart: 3
+      mobile:
+        default: 2
+        archive: 3
+        phart: 1
+  socials:
+    # todo: change these links.
+    - icon: 'far fa-envelope fa-lg'
+      url: 'mailto:ttcremers@gmail.com'
+      landing: true
+    - icon: 'fab fa-instagram fa-lg'
+      url: 'https://instagram.com/theodoorthomas_photo_art'
+      landing: true
+  homepage: "/life-in-contrast" # homepage link, mostly same with menu.main[0]
+  specialPages:
+    - work
+    - archive
+  bypassWelcomePage: false # redirects "/" to "homepage" when it's true.
+  disableWelcomePageBackground: true # disables the background image on the homepage
+  plausible: '' # todo: set your plausible id.
+  disableRadius: true
+  moveIt: false  # Moves Title and Meta info down, only visible when scroll.
+  disableAlwaysResize: true
+
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer:
+      unsafe: true
+
+taxonomies:
+  tag: tags
+
+permalinks:
+  work: ":filename/"
+
+menu:
+  main:
+    - name: Contrast
+      url: /tags/life-in-contrast/
+      weight: 1
+    - name: Tone
+      url: /tags/life-in-tone/
+      weight: 2
+    - name: Phart
+      url: /tags/phart/
+      weight: 3
+    - name: Women
+      url: /tags/women/
+      weight: 5
+    - name: about
+      url: /about/
+      weight: 6

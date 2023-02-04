@@ -1,0 +1,16 @@
+%YAML 1.1
+---
+version: '3.7'
+services:
+  server:
+    container_name: theodoorthomas
+    image: klakegg/hugo:0.107.0
+    command: server
+    volumes:
+      - "./theodoorthomas:/src"
+    ports:
+      - "1313:1313"
+    restart: "no"
+networks:
+  default:
+    name: theodoorthomas-net
