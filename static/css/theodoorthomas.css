@@ -1,8 +1,9 @@
 hr {
+  background-color: initial;
   overflow: visible; /* For IE */
   height: 30px;
   border-style: solid;
-  border-color: #FFF;
+  border-color: var(--white);
   border-width: 1px 0 0 0;
   border-radius: 20px;
 }
@@ -13,8 +14,18 @@ hr:before { /* Not really supposed to work, but does */
   height: 30px;
   margin-top: -31px;
   border-style: solid;
-  border-color: $main-foreground-color;
+  border-color: var(--main);
   border-width: 0 0 1px 0;
   border-radius: 20px;
+}
+
+section.welcome .image-box {
+  max-height: 400px;
+  border: 1px solid var(--grey);
+}
+
+section.welcome .column p {
+  padding: 2rem;
+  color: var(--main-light);
 }
 
