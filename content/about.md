@@ -8,7 +8,6 @@ hideTitle: true
 hideExif: true
 hideDate: true
 ---
-
 ***
 Situated in the Dutch coastline city The Hague I've been developing my photography skills over the past 20 years, always directed by my passion for the art of photography and the need to document life as I experience it.
 
@@ -18,5 +17,20 @@ When I'm not roaming the streets I occasionally do [portrait assignments](/tags/
 
 **I invite you to take a look at my portfolio and hope my work is able to moves you in some way.**
 
-For collabs, questions or business inquiries, feel free to contact me at:
 
+#### <i class="fa-regular fa-envelope"></i> For collabs, questions or business inquiries, feel free to contact me
+<form
+  action="https://formspree.io/f/mnqyjedd"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="email" placeholder="you@your.me">
+  </label>
+  <label>
+    Your message:
+    <textarea rows="6" name="message" placeholder="Anything you like, thanks for sharing"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit"><i class="fa-regular fa-paper-plane"></i> Send</button>
+</form>
