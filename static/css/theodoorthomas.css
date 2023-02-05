@@ -1,3 +1,7 @@
+.center.hidden-menu {
+  color: var(--main-light);
+}
+
 nav.navbar .menu {
   margin-top: 1rem;
   display: flex;
@@ -32,13 +36,23 @@ section.welcome .image-box {
   min-height: 200px;
 }
 
+section.welcome .image-box img {
+  object-fit:cover;
+  object-position: center;
+  width:160px;
+  height:198px;
+}
+
 section.welcome .columns > .column {
   flex-basis: 50%;
 }
 
 section.welcome .column p {
-  padding: 2rem;
-  color: var(--main-light);
+  margin-top: 1rem;
+  box-sizing: border-box;
+  border: 1px solid var(--dark-light);
+  padding: 0.7rem;
+  color: var(--grey);
 }
 
 label {
@@ -81,6 +95,10 @@ button[type=submit]:hover {
   }
   nav.navbar .menu {
     width: 600px;
+  }
+  section.welcome .image-box img {
+    width:310px;
+    height: 395px;
   }
 }
 

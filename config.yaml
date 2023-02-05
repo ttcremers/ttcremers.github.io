@@ -18,12 +18,11 @@ params:
         default: 2
       mobile:
         default: 2
-        archive: 3
         phart: 1
   socials:
     # todo: change these links.
-    - icon: 'far fa-envelope fa-lg'
-      url: 'mailto:ttcremers@gmail.com'
+    - icon: 'fa-brands fa-facebook fa-lg'
+      url: 'https://www.facebook.com/theodoorthomas'
       landing: true
     - icon: 'fab fa-instagram fa-lg'
       url: 'https://instagram.com/theodoorthomas_photo_art'
