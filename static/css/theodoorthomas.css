@@ -20,12 +20,24 @@ hr:before { /* Not really supposed to work, but does */
 }
 
 section.welcome .image-box {
-  max-height: 400px;
-  border: 1px solid var(--grey);
+  min-height: 200px;
+}
+
+section.welcome .columns > .column {
+  flex-basis: 50%;
 }
 
 section.welcome .column p {
   padding: 2rem;
   color: var(--main-light);
+}
+
+@media screen and (min-width: 769px) {
+  section.welcome .columns > .column {
+    flex-basis: 25%;
+  }
+  section.welcome .image-box {
+    height: 390px;
+  }
 }
 
