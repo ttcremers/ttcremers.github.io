@@ -3,6 +3,7 @@ title: TheodoorThomas # todo: change site name.
 defaultContentLanguage: 'en'
 theme: eternity
 googleAnalytics: '' # todo: set your analytics id.
+enableRobotsTXT: true
 
 params:
   image: /images/banner.png
@@ -13,11 +14,8 @@ params:
   portfolio:
     columns:
       desktop:
-        life-in-tone: 4
         archive: 6
-        life-in-contrast: 4
-        default: 3
-        phart: 3
+        default: 2
       mobile:
         default: 2
         archive: 3

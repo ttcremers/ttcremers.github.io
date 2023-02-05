@@ -1,28 +1,14 @@
 ---
-weight: 7
 images:
-- https://source.unsplash.com/random?people&323
-title: people 7
-date: 2022-07-23
+- /images/life-in-tone/theodoorthomas-life-in-tone-7.jpg
+title: life-in-tone
+weight: 7
 tags:
-- archive # all posts
+- color
 - life-in-tone
+- street
+- website
+hideExif: true
+hideTitle: true
+hideDate: true
 ---
-
-## Markdown
-
-You can use **Markdown** format to write **your story**.
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid!
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid!
-
-### Subtitle
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid!
-
-Some list
-
-1. A b c
-2. A b c
-3. A b c
