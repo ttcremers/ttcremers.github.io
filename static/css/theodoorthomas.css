@@ -1,3 +1,12 @@
+nav.navbar .menu {
+  margin-top: 1rem;
+  display: flex;
+  width: 360px;
+  justify-content: space-between;
+  font-weight:bold;
+  text-transform: uppercase;
+}
+
 hr {
   background-color: initial;
   overflow: visible; /* For IE */
@@ -32,15 +41,6 @@ section.welcome .column p {
   color: var(--main-light);
 }
 
-@media screen and (min-width: 769px) {
-  section.welcome .columns > .column {
-    flex-basis: 25%;
-  }
-  section.welcome .image-box {
-    height: 390px;
-  }
-}
-
 label {
   font-weight: bold;
 }
@@ -70,5 +70,17 @@ button[type=submit] {
 
 button[type=submit]:hover {
   background-color: var(--main-light);
+}
+
+@media screen and (min-width: 769px) {
+  section.welcome .columns > .column {
+    flex-basis: 25%;
+  }
+  section.welcome .image-box {
+    height: 390px;
+  }
+  nav.navbar .menu {
+    width: 600px;
+  }
 }
 
