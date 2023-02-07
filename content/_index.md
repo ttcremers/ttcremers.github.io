@@ -1,6 +1,6 @@
 ---
 desc:
-- I create still images like a tourist, a visual artist. I bend the truth like a lens bends light, a visual narrative of strangers. Only about myself.
+- I create still images like a tourist, a visual artist. I bend the truth like a lens bends light, a visual narrative of strangers. All about myself.
 featuredTags:
 - title: Life In Contrast
   image: /images/life-in-contrast/theodoorthomas-life-in-contrast-50.jpg

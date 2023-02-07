@@ -1,2 +1,7 @@
 - BEFORE GOING LIFE: Don't forget to remove the robots.txt that prevents search engines indexing the site
 - Map existing links to the new site equive. Do this, it's important
+- Summerise with a couple of nice icons in a block the services you deliver
+- Maybe we need a separate page for services
+- Maybe a page with some customer experiences?
+- Are we still going to blog? Do we need our existing titles?
+- If we're going to add a lot menu's we really should implement a proper menu for mobile ...
