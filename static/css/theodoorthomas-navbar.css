@@ -1,4 +1,4 @@
-header.header {
+.header {
   background-color: var(--dark-light);
   box-shadow: 0px 0px 3px -1px var(--main-light);
   position: sticky;

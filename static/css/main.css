@@ -1,10 +1,10 @@
 /* This is a theme copy and overwrite as I wanted to add the custom hr style */
-@import "bulma.min.css";
+/* @import "bulma.min.css"; */
 @import "base.css";
 @import "colors.css";
 @import "width.css";
 @import "markdown.css";
-@import "style.css";
+/*@import "style.css"; */
 @import "tablet.css";
 @import "mobile.css";
 
