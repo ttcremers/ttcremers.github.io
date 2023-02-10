@@ -2,15 +2,6 @@
   color: var(--main-light);
 }
 
-nav.navbar .menu {
-  margin-top: 1rem;
-  display: flex;
-  width: 360px;
-  justify-content: space-between;
-  font-weight:bold;
-  text-transform: uppercase;
-}
-
 hr {
   background-color: initial;
   overflow: visible; /* For IE */
@@ -39,8 +30,8 @@ section.welcome .image-box {
 section.welcome .image-box img {
   object-fit:cover;
   object-position: center;
-  width:160px;
-  height:198px;
+  width: 160px;
+  height: 198px;
 }
 
 section.welcome .columns > .column {
@@ -92,9 +83,6 @@ button[type=submit]:hover {
   }
   section.welcome .image-box {
     height: 390px;
-  }
-  nav.navbar .menu {
-    width: 600px;
   }
   section.welcome .image-box img {
     width:310px;

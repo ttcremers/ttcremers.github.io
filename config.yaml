@@ -52,10 +52,10 @@ permalinks:
 
 menu:
   main:
-    - name: Contrast
+    - name: Life in Contrast
       url: /tags/life-in-contrast/
       weight: 1
-    - name: Tone
+    - name: Life in Tone
       url: /tags/life-in-tone/
       weight: 2
     - name: Phart

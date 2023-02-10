@@ -1,0 +1,68 @@
+nav.navbar {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 0;
+  padding-top: 1rem;
+  position: sticky;
+  box-shadow: 1px 1px 5px -3px var(--dark-light);
+}
+
+nav.navbar div.logo {
+  height: auto;
+}
+
+nav .navbar-start {
+  margin: 0;
+}
+
+nav .navbar-middle {
+  width: initial;
+  flex: 1 1 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: initial;
+}
+
+.navbar-middle > a {
+  flex: 1 1 100%;
+  margin: 0;
+}
+
+.navbar-middle > ul.menu {
+  max-width: initial;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  margin-top: 1.75rem;
+}
+
+.menu > li {
+  flex: 1;
+  text-align: center;
+}
+
+.menu > li > a {
+  font-size: 1.25rem;
+  line-height: 2;
+  text-transform: uppercase;
+}
+
+nav > .navbar-end {
+  flex: 1;
+}
+
+@media screen and (min-width: 769px) {
+  nav.navbar {
+    flex-wrap: nowrap;
+    top: 0;
+    padding: 1rem;
+  }
+
+  .navbar-middle > ul.menu {
+    flex-direction: row;
+    margin-top: 0rem;
+  }
+}
+
