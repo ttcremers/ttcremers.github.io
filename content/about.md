@@ -19,6 +19,8 @@ I enjoying working with models and/or clients who value quality over quantity. M
 
 I invite you to take a look at my portfolio and hope my work is able to move you in some way.
 
-### <i class="fa-regular fa-envelope"></i> For collabs, questions or business inquiries, feel free to contact me
+<div class="center mt-6" id="contact-me"><i class="fa-regular fa-envelope fa-2xl"></i></div>
 
-**You can use the chat balloon on the lower right corner of every page to send me a message. I love to hear from you!**
+### For collabs, questions or business inquiries, feel free to contact me
+
+**You can use the chat balloon in the lower right corner of every page to send me a message. I love to hear from you!**
