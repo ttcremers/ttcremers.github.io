@@ -68,6 +68,15 @@ menu:
     - name: My Poland Street Photography
       url: /street-photography-my-poland/
       weight: 1
+    - name: Calculate Flash Exposure
+      url: /how-to-calculate-flash-exposure/
+      weight: 2
+    - name: Holga GN cloudy sunny switch
+      url: /instant-film-holgaroid/
+      weight: 3
+    - name: Van Dyke Brown Contact Print Tips
+      url: /van-dyke-brown-contact-print-tips/
+      weight: 4
     - name: about
       url: /about/
-      weight: 2
+      weight: 8

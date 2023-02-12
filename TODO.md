@@ -8,11 +8,11 @@
 
 In order of popularity these pages should at the very least be mapped
 
-https://theodoorthomas.com/blog/how-to-calculate-flash-exposure
-https://theodoorthomas.com/blog/street-photography-in-poland
-https://theodoorthomas.com/blog/holgaroid
-https://theodoorthomas.com/blog/holga-and-the-sunny-and-cloudy-switch
-https://theodoorthomas.com/blog/van-dyck-brown
+https://theodoorthomas.com/blog/how-to-calculate-flash-exposure - /how-to-calculate-flash-exposure/
+https://theodoorthomas.com/blog/street-photography-in-poland - /street-photography-my-poland/
+https://theodoorthomas.com/blog/holgaroid - /instant-film-holgaroid/
+https://theodoorthomas.com/blog/holga-and-the-sunny-and-cloudy-switch - /holga-gn-sunny-cloudy-switch/
+https://theodoorthomas.com/blog/van-dyck-brown - /van-dyke-brown-contact-print-tips/
 https://theodoorthomas.com/photographs/young-mother-poland
 https://theodoorthomas.com/photographs/spinach-drama
 https://theodoorthomas.com/photographs/dragon-dance
