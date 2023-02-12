@@ -16,17 +16,32 @@ nav.navbar > .navbar-menu {
   background-color: initial;
 }
 
-.navbar-menu a:active, .navbar-menu a:hover,
-.navbar-menu a:focus, .navbar-menu a:focus,
-.navbar-menu a.active:focus, .navbar-menu a.active:focus,
-.navbar-menu a.active:active, .navbar-menu a.active:hover {
+nav.navbar .navbar-dropdown {
+  background-color: var(--dark-light);
+  min-width: max-content;
+  border-top: 1px solid var(--main-light);
+}
+
+.navbar a:active, .navbar a:hover,
+.navbar a:focus, .navbar a:focus,
+.navbar a.active:focus, .navbar a.active:focus,
+.navbar a.active:active, .navbar a.active:hover {
   color: var(--white);
   background-color: var(--main);
+}
+
+.has-dropdown:hover .navbar-link {
+  background-color: initial !important;
+  border: 0 !important;
 }
 
 .navbar-item, .navbar-link {
   color: var(--lt-color-gray-500);
   text-transform: uppercase;
+}
+
+.navbar-link::after {
+  border-color: var(--main-light) !important;
 }
 
 @media (min-width:961px) {
