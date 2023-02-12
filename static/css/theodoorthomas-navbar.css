@@ -3,7 +3,7 @@ nav.navbar {
   display: initial;
 }
 
-nav.navbar > .navbar-brand a.navbar-item {
+.navbar-brand > a {
   text-decoration: none;
   border: 0;
 }
