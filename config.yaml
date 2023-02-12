@@ -9,7 +9,7 @@ params:
   image: /images/banner.png
   subtitle: I create still images like a tourist, a visual artist. I bend the truth like a lens bends light, a visual narrative of strangers but exclusively about myself.
   copyright: All rights reserved.
-  author: Theodoor Thomas
+  author: Thomas T. Cremers
   dontShowSource: false # please, do not do this :)
   portfolio:
     columns:
@@ -64,6 +64,10 @@ menu:
     - name: Women
       url: /tags/women/
       weight: 5
+  more:
+    - name: My Poland Street Photography
+      url: /street-photography-my-poland/
+      weight: 1
     - name: about
       url: /about/
-      weight: 6
+      weight: 2

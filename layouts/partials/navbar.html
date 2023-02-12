@@ -2,22 +2,25 @@
 {{ if .IsHome }}
     {{ $homeLink = "/" }}
 {{ end }}
+{{ $socials := .Site.Params.socials }}
+{{ if and .IsHome $socials }}
+    {{ $socials = where $socials "landing" true }}
+{{ end }}
 <nav class="navbar is-fixed-top" role="navigation" aria-label="main navigation">
     <div class="navbar-brand">
       <a href={{ relref . $homeLink }} class="navbar-item">
         <img src={{ "logo.png" | absURL }} alt="Theodoor Thomas Life Photography">
       </a>
 
-      <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="mainNavbar">
-        <span aria-hidden="true"></span>
-        <span aria-hidden="true"></span>
-        <span aria-hidden="true"></span>
-      </a>
+        <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="mainNavbar">
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+        </a>
     </div>
 
     <div id="mainNavbar" class="navbar-menu">
       <div class="navbar-start">
-        {{ if not .IsHome }}
             {{ if and .Site.Menus .Site.Menus.main }}
               {{ $lastIndex := sub (len .Site.Menus.main) 1 }}
               {{ $currentPage := .RelPermalink }}
@@ -29,22 +32,27 @@
                   <a class="{{ $active }} navbar-item" href="{{ $el.URL }}">{{ $el.Name }}</a>
               {{ end }}
             {{ end }}
+            {{ if and .Site.Menus .Site.Menus.main }}
             <div class="navbar-item has-dropdown is-hoverable">
               <a class="navbar-link">
                 More
               </a>
 
               <div class="navbar-dropdown">
-                <a class="navbar-item" href="">My Poland Street Photography</a>
+                {{ $lastIndex := sub (len .Site.Menus.more) 1 }}
+                {{ $currentPage := .RelPermalink }}
+                {{ range $i, $el := .Site.Menus.more }}
+                    {{ $active := "" }}
+                    {{ if eq $el.URL $currentPage }}
+                        {{ $active = "active" }}
+                    {{ end }}
+                    <a class="navbar-item {{ $active }}" href="{{ $el.URL }}">{{ $el.Name }}</a>
+                {{ end }}
               </div>
             </div>
-        {{ end }}
+            {{ end }}
       </div>
       <div class="navbar-end">
-          {{ $socials := .Site.Params.socials }}
-          {{ if and .IsHome $socials }}
-              {{ $socials = where $socials "landing" true }}
-          {{ end }}
           <div class="navbar-item">
             <div class="buttons">
               {{ range $el := $socials }}

@@ -1,3 +1,8 @@
+.content a {
+  border-bottom-width: 1px !important;
+  color: var(--main-light);
+}
+
 .center.hidden-menu {
   color: var(--main-light);
 }
