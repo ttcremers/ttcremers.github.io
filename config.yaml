@@ -64,6 +64,9 @@ menu:
     - name: Women
       url: /tags/women/
       weight: 5
+    - name: about
+      url: /about/
+      weight: 8
   more:
     - name: My Poland Street Photography
       url: /street-photography-my-poland/
@@ -77,6 +80,3 @@ menu:
     - name: Van Dyke Brown Contact Print Tips
       url: /van-dyke-brown-contact-print-tips/
       weight: 4
-    - name: about
-      url: /about/
-      weight: 8
