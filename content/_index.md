@@ -9,7 +9,7 @@ featuredTags:
   image: /images/life-in-tone/theodoorthomas-life-in-tone-6.jpg
   url: /tags/life-in-tone
 - title: Women
-  image: /images/women/theodoorthomas-women-4.jpg
+  image: /images/women/theodoorthomas-women-9.jpg
   url: /tags/women
 - title: Phart
   image: /images/phart/theodoorthomas-phart-10.jpg
