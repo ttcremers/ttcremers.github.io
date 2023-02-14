@@ -1,7 +1,7 @@
 ---
 images:
 - /images/women/theodoorthomas-women-9.jpg
-title: women
+title: Woman in water
 weight: 12
 tags:
 - final

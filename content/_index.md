@@ -3,15 +3,19 @@ desc:
 - I create still images like a tourist, a visual artist. I bend the truth like a lens bends light, a visual narrative of strangers. All about myself.
 featuredTags:
 - title: Life In Contrast
+  rel: outside on the street happy drunk man with pretty girl in black and white
   image: /images/life-in-contrast/theodoorthomas-life-in-contrast-50.jpg
   url: /tags/life-in-contrast
 - title: Life In Tone
+  rel: bored girl on the street sitting cowboy boot and old man in the background
   image: /images/life-in-tone/theodoorthomas-life-in-tone-6.jpg
   url: /tags/life-in-tone
 - title: Women
+  rel: naked woman in the water up to her chest black and white
   image: /images/women/theodoorthomas-women-9.jpg
   url: /tags/women
 - title: Phart
+  rel: boy with a millstone collar as if from the golden age
   image: /images/phart/theodoorthomas-phart-10.jpg
   url: /tags/phart
 ---

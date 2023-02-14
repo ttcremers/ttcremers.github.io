@@ -1,5 +1,5 @@
-baseURL: https://theodoorthomas.com
-title: Theodoor Thomas # todo: change site name.
+baseURL: https://zone.photos
+title: Zone Photos # todo: change site name.
 defaultContentLanguage: 'en'
 theme: eternity
 googleAnalytics: '' # todo: set your analytics id.
