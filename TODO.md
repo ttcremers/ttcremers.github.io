@@ -2,7 +2,6 @@
 - Summerise with a couple of nice icons in a block the services you deliver
 - Maybe we need a separate page for services
 - Maybe a page with some customer experiences?
-- Are we still going to blog? Do we need our existing titles?
 
 # Map existing links to the new site equive. Do this, it's important
 
