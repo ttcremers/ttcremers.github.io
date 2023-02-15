@@ -1,16 +1,15 @@
 ---
 images:
-- /images/women/theodoorthomas-women-1.jpg
+- /images/women/zonephotos-women-1.jpg
 title: women
-weight: 4
 tags:
-- d300
-- erotica
-- evelyn
-- fotoshoot
-- model
-- studio
-- theodoorthomas
+- Fine Art
+- black and white
+- boudoir
+- delicate
+- lingerie
+- nude
+- soft
 - women
 hideExif: true
 hideTitle: true

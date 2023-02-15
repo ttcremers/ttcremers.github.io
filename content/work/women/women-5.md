@@ -1,11 +1,16 @@
 ---
 images:
-- /images/women/theodoorthomas-women-2.jpg
-multipleColumn: true
+- /images/women/zonephotos-women-2.jpg
 title: women
-weight: 5
 tags:
+- Fine Art
+- black and white
+- boudoir
+- buttock
+- delicate
+- lingerie
 - nude
+- soft
 - women
 hideExif: true
 hideTitle: true

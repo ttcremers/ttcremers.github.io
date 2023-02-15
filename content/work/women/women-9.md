@@ -1,11 +1,12 @@
 ---
 images:
-- /images/women/theodoorthomas-women-6.jpg
+- /images/women/zonephotos-women-6.jpg
 title: women
-weight: 9
 tags:
+- Fine Art
+- black and white
+- boudoir
 - fotoshoot
-- model
 - nude
 - women
 hideExif: true

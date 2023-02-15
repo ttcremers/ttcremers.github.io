@@ -1,17 +1,14 @@
 ---
 images:
-- /images/women/theodoorthomas-women-11.jpg
+- /images/women/zonephotos-women-11.jpg
 title: women
-weight: 2
 tags:
-- erotica
-- fotoshoot
-- fujifilm
-- julka
+- boudoir
+- buttock
+- lingerie
 - model
-- processed
+- photoshoot
 - women
-- á§
 hideExif: true
 hideTitle: true
 hideDate: true

@@ -1,11 +1,16 @@
 ---
 images:
-- /images/women/theodoorthomas-women-7.jpg
+- /images/women/zonephotos-women-7.jpg
 title: women
-weight: 10
 tags:
-- fotoshoot
+- black and white
+- boudoir
+- delicate
+- full
+- model
 - nude
+- photoshoot
+- soft
 - women
 hideExif: true
 hideTitle: true

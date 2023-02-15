@@ -1,12 +1,14 @@
 ---
 images:
-- /images/women/theodoorthomas-women-10.jpg
+- /images/women/zonephotos-women-10.jpg
 title: women
-weight: 10
 tags:
-- erotica
-- fotoshoot
+- boudoir
+- color
+- dark
 - model
+- photoshoot
+- studio
 - women
 hideExif: true
 hideTitle: true

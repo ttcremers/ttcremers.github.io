@@ -1,16 +1,14 @@
 ---
 images:
-- /images/women/theodoorthomas-women-12.jpg
+- /images/women/zonephotos-women-12.jpg
 title: women
-weight: 3
 tags:
-- erotica
-- fotoshoot
-- fujifilm
-- julka
+- black and white
+- color
 - model
+- photoshoot
+- studio
 - women
-- á§
 hideExif: true
 hideTitle: true
 hideDate: true

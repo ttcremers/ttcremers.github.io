@@ -1,10 +1,14 @@
 ---
 images:
-- /images/women/theodoorthomas-women-4.jpg
+- /images/women/zonephotos-women-4.jpg
 title: women
-weight: 7
 tags:
+- boudoir
+- breast
+- classic
+- color
 - nude
+- portrait
 - women
 hideExif: true
 hideTitle: true

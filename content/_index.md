@@ -11,8 +11,8 @@ featuredTags:
   image: /images/life-in-tone/theodoorthomas-life-in-tone-6.jpg
   url: /tags/life-in-tone
 - title: Women
-  alt: naked woman in the water up to her chest black and white
-  image: /images/women/theodoorthomas-women-9.jpg
+  alt: nude woman in the water up to her chest black and white
+  image: /images/women/zonephotos-women-9.jpg
   url: /tags/women
 - title: Phart
   alt: boy with a millstone collar as if from the golden age

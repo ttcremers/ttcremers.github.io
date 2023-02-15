@@ -1,11 +1,13 @@
 ---
 images:
-- /images/women/theodoorthomas-women-9.jpg
-title: Woman in water
-weight: 12
+- /images/women/zonephotos-women-9.jpg
+title: women
 tags:
-- final
-- gosia
+- black and white
+- natural
+- nature
+- soft
+- water
 - women
 hideExif: true
 hideTitle: true

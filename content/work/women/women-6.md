@@ -1,10 +1,16 @@
 ---
 images:
-- /images/women/theodoorthomas-women-3.jpg
+- /images/women/zonephotos-women-3.jpg
 title: women
-weight: 11
 tags:
-- erotica
+- Fine Art
+- black and white
+- boudoir
+- breast
+- delicate
+- lingerie
+- nude
+- soft
 - women
 hideExif: true
 hideTitle: true

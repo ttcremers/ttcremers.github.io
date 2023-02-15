@@ -1,11 +1,10 @@
 ---
 images:
-- /images/women/theodoorthomas-women-8.jpg
+- /images/women/zonephotos-women-8.jpg
 title: women
-weight: 6
 tags:
 - Fine Art
-- erotica
+- boudoir
 - fotoshoot
 - model
 - nude
