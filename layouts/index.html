@@ -20,7 +20,7 @@
 									{{ $row := dict "images" (slice .image) }}
 									{{ partial "helpers/get" (dict "scratch" $scratch "row" $row) }}
 									{{ $image := $scratch.Get "img" }}
-									{{ $rel := .rel }}
+									{{ $alt := .alt }}
 									{{ with $image }}
                     <img src="{{ $image.RelPermalink }}" loading="lazy" alt="{{ $alt }}" />
 									{{end}}
