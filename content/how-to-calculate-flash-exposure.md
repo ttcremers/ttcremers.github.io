@@ -13,6 +13,7 @@ tags:
 - shutter
 - manual
 - ttl
+- article
 ---
 # How to Calculate Flash Exposure
 ## It sounds pretty scary but it’s actually not that complicated. What are the ingredients? It’s a simple division, lets get started.
