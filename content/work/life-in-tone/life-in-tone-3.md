@@ -1,11 +1,11 @@
 ---
 images:
-- /images/life-in-tone/theodoorthomas-life-in-tone-3.jpg
+- /images/life-in-tone/zonephotos-life-in-tone-12.jpg
 title: life-in-tone
-weight: 3
 tags:
+- color
 - life-in-tone
-- polish-buildings
+- street photography
 hideExif: true
 hideTitle: true
 hideDate: true

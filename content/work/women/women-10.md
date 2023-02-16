@@ -12,7 +12,7 @@ tags:
 - photoshoot
 - soft
 - women
-hideExif: true
+hideExif: false
 hideTitle: true
 hideDate: true
 ---

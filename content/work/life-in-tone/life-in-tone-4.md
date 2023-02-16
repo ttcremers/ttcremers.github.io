@@ -1,12 +1,15 @@
 ---
 images:
-- /images/life-in-tone/theodoorthomas-life-in-tone-4.jpg
+- /images/life-in-tone/zonephotos-life-in-tone-1.jpg
 title: life-in-tone
-weight: 4
 tags:
+- People
+- color
+- happy
+- laughter
+- life
 - life-in-tone
-- poland
-- polish-buildings
+- street photography
 hideExif: true
 hideTitle: true
 hideDate: true

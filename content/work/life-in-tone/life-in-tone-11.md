@@ -1,12 +1,12 @@
 ---
 images:
-- /images/life-in-tone/zonephotos-life-in-tone-11.jpg
+- /images/life-in-tone/zonephotos-life-in-tone-8.jpg
 title: life-in-tone
 tags:
+- beach
 - color
 - life-in-tone
 - portrait
-- street photography
 hideExif: true
 hideTitle: true
 hideDate: true

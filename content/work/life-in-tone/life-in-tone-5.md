@@ -1,10 +1,11 @@
 ---
 images:
-- /images/life-in-tone/theodoorthomas-life-in-tone-5.jpg
+- /images/life-in-tone/zonephotos-life-in-tone-2.jpg
 title: life-in-tone
-weight: 5
 tags:
+- color
 - life-in-tone
+- street photography
 hideExif: true
 hideTitle: true
 hideDate: true

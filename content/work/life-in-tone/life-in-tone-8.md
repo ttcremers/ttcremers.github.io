@@ -1,13 +1,12 @@
 ---
 images:
-- /images/life-in-tone/theodoorthomas-life-in-tone-8.jpg
+- /images/life-in-tone/zonephotos-life-in-tone-5.jpg
 title: life-in-tone
-weight: 8
 tags:
 - color
-- fujifilm
 - life-in-tone
-- street
+- poland
+- polish-buildings
 hideExif: true
 hideTitle: true
 hideDate: true

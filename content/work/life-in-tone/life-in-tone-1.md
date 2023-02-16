@@ -1,14 +1,14 @@
 ---
 images:
-- /images/life-in-tone/theodoorthomas-life-in-tone-1.jpg
+- /images/life-in-tone/zonephotos-life-in-tone-10.jpg
 title: life-in-tone
-weight: 1
 tags:
-- alex
 - beach
 - color
 - life-in-tone
 - portrait
+- sunset
+- warm
 hideExif: true
 hideTitle: true
 hideDate: true

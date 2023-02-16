@@ -2,6 +2,7 @@
 - Summerise with a couple of nice icons in a block the services you deliver
 - Maybe we need a separate page for services
 - Maybe a page with some customer experiences?
+- Don't forget about the /license page
 
 # Map existing links to the new site equive. Do this, it's important
 
