@@ -2,6 +2,7 @@
 images:
 - /images/women/zonephotos-women-3.jpg
 title: women
+weigth: 10
 tags:
 - Fine Art
 - black and white

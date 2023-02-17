@@ -2,6 +2,7 @@
 images:
 - /images/phart/zonephotos-photoart-10.jpg
 title: photoart
+weight: -1
 tags:
 - Fine Art
 - composit

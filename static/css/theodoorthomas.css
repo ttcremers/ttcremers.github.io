@@ -48,7 +48,7 @@ section.welcome .column p {
   box-sizing: border-box;
   border: 1px solid var(--dark-light);
   padding: 0.7rem;
-  color: var(--grey);
+  color: var(--white);
 }
 
 .footer a {

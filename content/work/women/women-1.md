@@ -2,6 +2,7 @@
 images:
 - /images/women/zonephotos-women-10.jpg
 title: women
+weight: 5
 tags:
 - boudoir
 - color
