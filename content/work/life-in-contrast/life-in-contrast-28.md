@@ -1,12 +1,12 @@
 ---
 images:
-- /images/life-in-contrast/theodoorthomas-life-in-contrast-35.jpg
+- /images/life-in-contrast/zonephotos-life-in-contrast-34.jpg
 title: life-in-contrast
-weight: 28
 tags:
-- alex
+- black and white
+- candid
 - life-in-contrast
-- portrait
+- poland
 hideExif: true
 hideTitle: true
 hideDate: true

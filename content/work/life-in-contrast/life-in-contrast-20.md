@@ -1,13 +1,13 @@
 ---
 images:
-- /images/life-in-contrast/theodoorthomas-life-in-contrast-28.jpg
+- /images/life-in-contrast/zonephotos-life-in-contrast-27.jpg
 title: life-in-contrast
-weight: 20
 tags:
-- final
+- black and white
+- film
 - life-in-contrast
-- portrait
-- street
+- monochrome
+- street photography
 hideExif: true
 hideTitle: true
 hideDate: true

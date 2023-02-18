@@ -1,11 +1,13 @@
 ---
 images:
-- /images/life-in-contrast/theodoorthomas-life-in-contrast-17.jpg
+- /images/life-in-contrast/zonephotos-life-in-contrast-16.jpg
 title: life-in-contrast
-weight: 8
 tags:
-- 8989
+- black and white
+- couchesurfing
 - life-in-contrast
+- monochrome
+- portrait
 hideExif: true
 hideTitle: true
 hideDate: true

@@ -1,14 +1,12 @@
 ---
 images:
-- /images/life-in-contrast/theodoorthomas-life-in-contrast-50.jpg
+- /images/life-in-contrast/zonephotos-life-in-contrast-5.jpg
 title: life-in-contrast
-weight: 45
 tags:
-- 8989
-- leica
+- black and white
 - life-in-contrast
 - monochrome
-- thiebald huwelijk
+- portrait
 hideExif: true
 hideTitle: true
 hideDate: true

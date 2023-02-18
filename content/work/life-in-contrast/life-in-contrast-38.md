@@ -1,10 +1,14 @@
 ---
 images:
-- /images/life-in-contrast/theodoorthomas-life-in-contrast-44.jpg
+- /images/life-in-contrast/zonephotos-life-in-contrast-43.jpg
 title: life-in-contrast
-weight: 38
 tags:
+- beach
+- black and white
 - life-in-contrast
+- monochrome
+- scheveningen
+- sea
 hideExif: true
 hideTitle: true
 hideDate: true

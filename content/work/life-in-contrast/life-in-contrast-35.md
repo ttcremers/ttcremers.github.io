@@ -1,12 +1,13 @@
 ---
 images:
-- /images/life-in-contrast/theodoorthomas-life-in-contrast-41.jpg
+- /images/life-in-contrast/zonephotos-life-in-contrast-40.jpg
 title: life-in-contrast
-weight: 35
 tags:
-- alex
+- black and white
 - life-in-contrast
-- portrait
+- monochrome
+- movement
+- street photography
 hideExif: true
 hideTitle: true
 hideDate: true

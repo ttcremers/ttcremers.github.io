@@ -1,12 +1,14 @@
 ---
 images:
-- /images/life-in-contrast/theodoorthomas-life-in-contrast-36.jpg
+- /images/life-in-contrast/zonephotos-life-in-contrast-35.jpg
 title: life-in-contrast
-weight: 29
 tags:
-- alex
+- black and white
 - life-in-contrast
-- portrait
+- monochrome
+- night
+- scheveningen
+- street photography
 hideExif: true
 hideTitle: true
 hideDate: true

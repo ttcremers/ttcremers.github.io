@@ -1,12 +1,12 @@
 ---
 images:
-- /images/life-in-contrast/theodoorthomas-life-in-contrast-52.jpg
+- /images/life-in-contrast/zonephotos-life-in-contrast-7.jpg
 title: life-in-contrast
-weight: 47
 tags:
-- leica
+- black and white
 - life-in-contrast
 - monochrome
+- portrait
 hideExif: true
 hideTitle: true
 hideDate: true

@@ -1,15 +1,13 @@
 ---
 images:
-- /images/life-in-contrast/theodoorthomas-life-in-contrast-39.jpg
+- /images/life-in-contrast/zonephotos-life-in-contrast-38.jpg
 title: life-in-contrast
-weight: 32
 tags:
+- amsterdam
 - black and white
-- film
 - life-in-contrast
 - monochrome
-- polen
-- street
+- street photography
 hideExif: true
 hideTitle: true
 hideDate: true

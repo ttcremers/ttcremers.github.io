@@ -1,11 +1,13 @@
 ---
 images:
-- /images/life-in-contrast/theodoorthomas-life-in-contrast-47.jpg
+- /images/life-in-contrast/zonephotos-life-in-contrast-46.jpg
 title: life-in-contrast
-weight: 41
 tags:
+- beach
+- black and white
 - life-in-contrast
-- portret
+- monochrome
+- movement
 hideExif: true
 hideTitle: true
 hideDate: true

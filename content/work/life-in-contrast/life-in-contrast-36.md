@@ -1,15 +1,12 @@
 ---
 images:
-- /images/life-in-contrast/theodoorthomas-life-in-contrast-42.jpg
+- /images/life-in-contrast/zonephotos-life-in-contrast-41.jpg
 title: life-in-contrast
-weight: 36
 tags:
-- final
+- black and white
 - life-in-contrast
-- lucia
-- portrait
-- project
-- schouten
+- monochrome
+- movement
 hideExif: true
 hideTitle: true
 hideDate: true

@@ -1,18 +1,13 @@
 ---
 images:
-- /images/life-in-contrast/theodoorthomas-life-in-contrast-54.jpg
+- /images/life-in-contrast/zonephotos-life-in-contrast-9.jpg
 title: life-in-contrast
-weight: 49
 tags:
-- 8989
-- amsterdam
-- break
-- leica
+- black and white
+- couchesurfing
 - life-in-contrast
 - monochrome
-- museum
-- rest
-- street
+- portrait
 hideExif: true
 hideTitle: true
 hideDate: true

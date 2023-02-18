@@ -1,15 +1,14 @@
 ---
 images:
-- /images/life-in-contrast/theodoorthomas-life-in-contrast-48.jpg
+- /images/life-in-contrast/zonephotos-life-in-contrast-47.jpg
 title: life-in-contrast
-weight: 42
 tags:
-- 8989
-- leica
+- Fine Art
+- black and white
 - life-in-contrast
 - monochrome
-- scheveningen
-- street
+- night
+- still life
 hideExif: true
 hideTitle: true
 hideDate: true

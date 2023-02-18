@@ -1,11 +1,13 @@
 ---
 images:
-- /images/life-in-contrast/theodoorthomas-life-in-contrast-19.jpg
+- /images/life-in-contrast/zonephotos-life-in-contrast-18.jpg
 title: life-in-contrast
-weight: 10
 tags:
-- 8989
+- black and white
 - life-in-contrast
+- monochrome
+- poland
+- portrait
 hideExif: true
 hideTitle: true
 hideDate: true

@@ -1,12 +1,13 @@
 ---
 images:
-- /images/life-in-contrast/theodoorthomas-life-in-contrast-34.jpg
+- /images/life-in-contrast/zonephotos-life-in-contrast-33.jpg
 title: life-in-contrast
-weight: 27
 tags:
+- black and white
+- headshot
 - life-in-contrast
+- monochrome
 - portrait
-- ton
 hideExif: true
 hideTitle: true
 hideDate: true

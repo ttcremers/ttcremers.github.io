@@ -1,13 +1,12 @@
 ---
 images:
-- /images/life-in-contrast/theodoorthomas-life-in-contrast-1.jpg
+- /images/life-in-contrast/zonephotos-life-in-contrast-19.jpg
 title: life-in-contrast
-weight: 11
 tags:
+- black and white
 - life-in-contrast
-- poland roadtrip
+- monochrome
 - portrait
-- street
 hideExif: true
 hideTitle: true
 hideDate: true

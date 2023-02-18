@@ -1,14 +1,13 @@
 ---
 images:
-- /images/life-in-contrast/theodoorthomas-life-in-contrast-53.jpg
+- /images/life-in-contrast/zonephotos-life-in-contrast-8.jpg
 title: life-in-contrast
-weight: 48
 tags:
-- churge
-- dark
-- leica
+- black and white
 - life-in-contrast
+- london
 - monochrome
+- street photography
 hideExif: true
 hideTitle: true
 hideDate: true

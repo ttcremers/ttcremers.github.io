@@ -1,15 +1,14 @@
 ---
 images:
-- /images/life-in-contrast/theodoorthomas-life-in-contrast-11.jpg
+- /images/life-in-contrast/zonephotos-life-in-contrast-10.jpg
 title: life-in-contrast
-weight: 2
 tags:
-- 8989
 - black and white
 - life-in-contrast
-- love
 - monochrome
-- street
+- poland
+- poznan
+- street photography
 hideExif: true
 hideTitle: true
 hideDate: true

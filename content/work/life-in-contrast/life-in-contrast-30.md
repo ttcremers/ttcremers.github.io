@@ -1,12 +1,14 @@
 ---
 images:
-- /images/life-in-contrast/theodoorthomas-life-in-contrast-37.jpg
+- /images/life-in-contrast/zonephotos-life-in-contrast-36.jpg
 title: life-in-contrast
-weight: 30
 tags:
-- alex
+- black and white
+- leica
 - life-in-contrast
-- portrait
+- monochrome
+- paris
+- street photography
 hideExif: true
 hideTitle: true
 hideDate: true
