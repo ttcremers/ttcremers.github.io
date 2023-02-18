@@ -32,7 +32,7 @@
 				</div>
 			{{ end }}
 			{{ range $d := .Params.Desc }}
-				<p class="p-4">{{ $d }}</p>
+				<h4>{{ $d }}</h4>
 			{{ end }}
 			<div class="enter">
 				<button onclick="window.location.href='{{ relref . .Site.Params.Homepage }}'"

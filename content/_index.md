@@ -1,10 +1,10 @@
 ---
 desc:
-- I create still images like a tourist, a visual artist. I bend the truth like a lens bends light, a visual narrative of strangers. All about myself.
+- Capturing life's beauty with artful precision. Discover the magic in your everyday moments with Zone Photos. Contact us today to create lasting memories with stunning photography.
 featuredTags:
 - title: Life In Contrast
   alt: outside on the street happy drunk man with pretty girl in black and white
-  image: /images/life-in-contrast/theodoorthomas-life-in-contrast-50.jpg
+  image: /images/life-in-contrast/zonephotos-life-in-contrast-24.jpg
   url: /tags/life-in-contrast
 - title: Life In Tone
   alt: bored girl on the street sitting cowboy boot and old man in the background

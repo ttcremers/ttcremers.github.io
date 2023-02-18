@@ -7,7 +7,7 @@ enableRobotsTXT: true
 
 params:
   image: /images/banner.png
-  subtitle: I create still images like a tourist, a visual artist. I bend the truth like a lens bends light, a visual narrative of strangers but exclusively about myself.
+  subtitle: Capturing with artful precision. Discover the magic in your everyday moments with Zone Photos. Contact us to create lasting memories with stunning photography."
   copyright: All rights reserved.
   author: Thomas T. Cremers
   dontShowSource: false # please, do not do this :)
