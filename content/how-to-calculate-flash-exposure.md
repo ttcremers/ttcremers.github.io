@@ -5,7 +5,7 @@ title: "How to Calculate Flash Exposure"
 hideExif: true
 hideDate: true
 hideTitle: true
-tags:
+categories:
 - flash
 - calculate
 - camera

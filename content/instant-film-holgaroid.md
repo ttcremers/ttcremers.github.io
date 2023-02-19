@@ -5,7 +5,7 @@ title: "The instant Holga"
 hideExif: true
 hideDate: true
 hideTitle: true
-tags:
+categories:
 - holga
 - film
 - instant

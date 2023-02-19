@@ -5,7 +5,7 @@ title: "Street Photography My Poland"
 hideExif: true
 hideDate: true
 hideTitle: true
-tags:
+categories:
 - article
 - Poland
 - street-photography

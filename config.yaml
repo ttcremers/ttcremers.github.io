@@ -46,6 +46,7 @@ markup:
 
 taxonomies:
   tag: tags
+  category: categories
 
 permalinks:
   work: ":filename/"

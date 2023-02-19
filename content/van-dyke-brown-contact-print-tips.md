@@ -5,7 +5,7 @@ title: "Van Dyke Brown Contact Print Tips"
 hideExif: true
 hideDate: true
 hideTitle: true
-tags:
+categories:
 - instruction
 - manual
 - printing

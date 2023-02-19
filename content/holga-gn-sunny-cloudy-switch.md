@@ -5,7 +5,7 @@ title: "Holga GN cloudy sunny switch"
 hideExif: true
 hideDate: true
 hideTitle: true
-tags:
+categories:
 - holga
 - film
 - camera
