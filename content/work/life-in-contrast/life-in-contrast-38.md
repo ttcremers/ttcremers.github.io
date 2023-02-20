@@ -4,7 +4,7 @@ images:
 title: life-in-contrast
 tags:
 - beach
-- black and white
+- black-and-white
 - life-in-contrast
 - monochrome
 - scheveningen

@@ -1,4 +1,3 @@
-- BEFORE GOING LIFE: Don't forget to remove the robots.txt that prevents search engines indexing the site
 - Summerise with a couple of nice icons in a block the services you deliver
 - Maybe we need a separate page for services
 - Maybe a page with some customer experiences?

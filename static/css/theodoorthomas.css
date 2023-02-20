@@ -73,12 +73,13 @@ section.welcome .column p {
 }
 
 div[path*="/about/"] img {
+  cursor: default;
   object-fit: cover;
   width: 248px;
   height: 248px;
   border-radius: 4px;
-  border-bottom: 50px solid var(--white);
-  border: 10px solid var(--white);
-  border-bottom: 60px solid var(--white);
+  border: 15px solid var(--white);
+  border-bottom: 70px solid var(--white);
   box-sizing: content-box;
+  box-shadow: 3px 2px 15px 0px #000000;
 }

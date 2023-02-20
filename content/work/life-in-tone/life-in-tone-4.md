@@ -9,7 +9,7 @@ tags:
 - laughter
 - life
 - life-in-tone
-- street photography
+- street-photography
 hideExif: true
 hideTitle: true
 hideDate: true

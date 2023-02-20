@@ -6,7 +6,7 @@ tags:
 - color
 - life-in-tone
 - portrait
-- street photography
+- street-photography
 hideExif: true
 hideTitle: true
 hideDate: true

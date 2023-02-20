@@ -5,7 +5,7 @@ title: life-in-tone
 tags:
 - color
 - life-in-tone
-- street photography
+- street-photography
 hideExif: true
 hideTitle: true
 hideDate: true

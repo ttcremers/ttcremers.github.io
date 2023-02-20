@@ -3,11 +3,11 @@ images:
 - /images/phart/zonephotos-photoart-6.jpg
 title: photoart
 tags:
-- Fine Art
+- fine-art
 - composit
 - conceptual
-- current events
-- digital art
+- current-events
+- digital-art
 - mh17
 - phart
 - surrealism

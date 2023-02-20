@@ -3,15 +3,15 @@ images:
 - /images/phart/zonephotos-photoart-9.jpg
 title: photoart
 tags:
-- Fine Art
+- fine-art
 - birds
 - composit
 - conceptual
-- digital art
-- fiddler on the roof
+- digital-art
+- fiddler-on-the-roof
 - phart
 - silhouette
-- the hague
+- the-hague
 hideExif: true
 hideTitle: true
 hideDate: true

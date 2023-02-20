@@ -3,7 +3,7 @@ images:
 - /images/life-in-contrast/zonephotos-life-in-contrast-2.jpg
 title: life-in-contrast
 tags:
-- black and white
+- black-and-white
 - life-in-contrast
 - monochrome
 - portrait

@@ -9,13 +9,13 @@ hideExif: true
 hideDate: true
 ---
 ***
-Situated in the Dutch coastline city The Hague I've been developing my photography skills over the past 20 years, always directed by my passion for the art of photography and the need to document life as I experience it.
+Situated in the Dutch coastline city The Hague, I've been developing my photography skills over the past 20 years, always directed by my passion for the art of photography and the need to document life as I experience it.
 
-A lot of the photographs you will find here can be categorized as [street photography](/tags/street-photography), capturing everyday life in [contrast](/tags/life-in-contrast) and- less frequent -[tone](/tags/life-in-tone). My goal is to present my perspective on the world or, to quote Garry Winogrand *“I photograph to see what the world looks like in photographs.”*.
+A lot of the photographs you will find here can be categorized as [street photography](/tags/street-photography), capturing everyday life in [contrast](/tags/life-in-contrast) and - less frequent -[tone](/tags/life-in-tone). My goal is to present my perspective on the world or, to quote Garry Winogrand, *“I photograph to see what the world looks like in photographs.”*.
 
-When I'm not roaming the streets I occasionally do [portrait assignments](/tags/portrait) or do more [conceptual work](/tags/phart) which you can find under [Phart](/tags/phart) (Photo Art). The post processing and compositing of images are all done by myself in Adobe Photoshop with which I have extensive experience and expertise. If you're stuck on an image and you need some help or do you have an old photo you would like to have restored? I can help out. For more general post processing/retouching I'm available as well.
+When I'm not roaming the streets I occasionally do [portrait assignments](/tags/portrait) or do more [conceptual work](/tags/phart) which you can find under [Phart](/tags/phart) (Photo Art). All post-processing and compositing I did in Adobe Photoshop, with which I have extensive experience and expertise. If you're stuck on an image, and you need some help, or you have an old photo you would like to have restored? I can help out. For more general post-processing/retouching, I'm available as well.
 
-I enjoying working with models and/or clients who value quality over quantity. My aim for a photo shoot or a portrait- candid or otherwise -is to have a couple of images that are authentic and can stand the test of time. I'm not the type of photographer that keeps on shooting and delivers 300 images. I want to make sure we're the right fit for each other, so you will get the experience and images you're hoping for.
+I enjoy working with models and/or clients who value quality over quantity. My aim for a photo shoot or a portrait - candid or otherwise - is to have a couple of images that are authentic and can stand the test of time. I'm not the type of photographer that keeps on shooting and delivers 300 images. It's important we're the right fit for each other, so you will get the experience and images you're hoping for.
 
 I invite you to take a look at my portfolio and hope my work is able to move you in some way.
 

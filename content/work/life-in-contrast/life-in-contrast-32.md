@@ -4,10 +4,10 @@ images:
 title: life-in-contrast
 tags:
 - amsterdam
-- black and white
+- black-and-white
 - life-in-contrast
 - monochrome
-- street photography
+- street-photography
 hideExif: true
 hideTitle: true
 hideDate: true

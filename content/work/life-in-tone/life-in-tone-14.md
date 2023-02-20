@@ -1,17 +1,18 @@
 ---
 images:
 - /images/phart/zonephotos-photoart-3.jpg
-title: photoart
+title: Portrait life in tone
+weight: 1
 tags:
-- 16th century
-- Fine Art
+- 16th-century
+- Fine-Art
 - composit
 - conceptual
-- digital art
+- digital-art
 - family-portraits
-- golden age
+- golden-age
 - painterly
-- phart
+- life-in-tone
 - portrait
 hideExif: true
 hideTitle: true
