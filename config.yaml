@@ -75,9 +75,12 @@ menu:
     - name: Calculate Flash Exposure
       url: /how-to-calculate-flash-exposure/
       weight: 2
-    - name: Holga GN cloudy sunny switch
+    - name: The instant film Holga
       url: /instant-film-holgaroid/
       weight: 3
+    - name: Holga GN cloudy sunny switch
+      url: /holga-gn-sunny-cloudy-switch/
+      weight: 4
     - name: Van Dyke Brown Contact Print Tips
       url: /van-dyke-brown-contact-print-tips/
-      weight: 4
+      weight: 5
