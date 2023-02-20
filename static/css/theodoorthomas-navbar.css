@@ -19,7 +19,7 @@ nav.navbar > .navbar-menu {
 nav.navbar .navbar-dropdown {
   background-color: var(--dark-light);
   min-width: max-content;
-  border-top: 1px solid var(--main-light);
+  border-top: 1px solid var(--main);
 }
 
 .has-dropdown > a > span {
@@ -48,7 +48,7 @@ nav.navbar .navbar-dropdown {
 }
 
 .navbar-link::after {
-  border-color: var(--main-light) !important;
+  border-color: var(--main) !important;
 }
 
 @media (min-width:961px) {
