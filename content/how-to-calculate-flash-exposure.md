@@ -67,50 +67,51 @@ What went wrong here?! The first step was the correct one, fill flash would have
 
 <script type="application/ld+json">
 {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [{
-        "@type": "Question",
-        "name": "How do I manually calculate the exposure settings for my camera when using a strobe or a flash?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Flash exposure is set f-stops or the aperture. To get the apatures f value we need to devide the flash units Guide Nummer (GN) with the distance in meters or feet. Here's an example in meter, lets say we're 5 meters from our subject: <b>GN12 / 5 Meters = F2.4</b>. The Guide Number 12 is common for popup flashes, the Guide Number is always given of for a specific iso setting so make sure your camera is set to that (for digital camera's this is usually the native ISO for the camera). Guide Number come in a hight and a low number. The low number is for calculating using meters and the high number is for feet. Converting the meters example to feet: GN36 / 16 Feet = F2.2. Note that shutter speed is less important for flash exposure. The shutter takes care of exposing for continues light (sun etc). Just make sure your shutter is around 60th of a second and you should be fine (at the very least below the camera's max sync speed; if you know what that is. Usually around 250th/s)"
-        }
-      }, {
-      "mainEntity": [{
-        "@type": "Question",
-        "name": "What if I like to use a portable flash like my sb-800 and bounce it of the ceiling?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "No problem, just add that distance. So if the ceiling is 1.5 meters from your flash-head and the subject a similar amount from the ceiling, you end op with a distance of 3 meters."
-        }
-      }, {
-        "@type": "Question",
-        "name": "If shutter speed doesn't matter, why is my camera manual talking about flash sync speed?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Okay, there's that issue. The flash sync speed of your camera is the maximum shutter speed with which your camera can keep the shutter in sync with the flash. Just don't set your shutter any faster than that (often around 200/s) or you will start to see exposure differences between the top of your photo and the bottom. The dark part is the shutter going down in the middle of your flash pop. You can play a little with your shutter for creative effect, the longer you leave the shutter open the more available light will come in, this way you can combine your flash exposure with available light. Just play, you'll see what I mean."
-        }
-      }, {
-        "@type": "Question",
-        "name": "My Guide Number is calculated at ISO 100, but I want to shoot at ISO 800, now what?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "That's going to add another calculation on your Guide Number. From ISO 100 to ISO 800 is in total 3 stops more light sensitivity. This means that your flash unit becomes 3 times more effective. So the only thing you need to do is multiply your Guide Number by the amount of stops you increase your ISO. In this case, *GN12 x 3 stops = GN36*. Be careful with this, though, as there's also a minimum to the light a flash unit can output."
-        }
-      }, {
-        "@type": "Question",
-        "name": "I really want to use my flash manually, but I can't calculate fast enough, now what?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "If you use a digital camera the answer is simple, set your camera to manual and play with the power division scale (1/1, 1/2, 1/4 power) on the flash. Shoot and review. Pretty soon you'll develop a sense for it, and you'll get it right on the first or second try. If you're like me and love to shoot film, the previous is not an option. When shooting black and white film you can really do a rough calculation, just pick an easy round number. I know the world parties about the ability to shoot raw and fiddle with the exposure in a raw editor, but I made 5 stop exposure errors on Kodak Tri-x 400 film and got away with it just fine."
-        }
-      }, {
-        "@type": "Question",
-        "name": "Do you know of an iPhone or Android app that can calculate for me?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text":"No I don't. You can search for it, but most camera flash units come with one build in, you probably just never knew it was there. I sometimes use my Nikon SB-800 with my Rolleicord or one of my Range Finder bodies. I switch the flash unit to manual and set the film ISO in the advanced menu. When you regulate the power level, there's a small distance scale in the top right corner which shows distance in, you guessed it, meters and feet. How is that for easy! Just guess the distance and set it, done."}
-        }]
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I manually calculate the exposure settings for my camera when using a strobe or a flash?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Flash exposure is set f-stops or the aperture. To get the apatures f value we need to devide the flash units Guide Nummer (GN) with the distance in meters or feet. Here's an example in meter, lets say we're 5 meters from our subject: <b>GN12 / 5 Meters = F2.4</b>. The Guide Number 12 is common for popup flashes, the Guide Number is always given of for a specific iso setting so make sure your camera is set to that (for digital camera's this is usually the native ISO for the camera). Guide Number come in a hight and a low number. The low number is for calculating using meters and the high number is for feet. Converting the meters example to feet: GN36 / 16 Feet = F2.2. Note that shutter speed is less important for flash exposure. The shutter takes care of exposing for continues light (sun etc). Just make sure your shutter is around 60th of a second and you should be fine (at the very least below the camera's max sync speed; if you know what that is. Usually around 250th/s)"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What if I like to use a portable flash like my sb-800 and bounce it of the ceiling?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No problem, just add that distance. So if the ceiling is 1.5 meters from your flash-head and the subject a similar amount from the ceiling, you end op with a distance of 3 meters."
+      }
+    }, {
+    "@type": "Question",
+    "name": "If shutter speed doesn't matter, why is my camera manual talking about flash sync speed?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Okay, there's that issue. The flash sync speed of your camera is the maximum shutter speed with which your camera can keep the shutter in sync with the flash. Just don't set your shutter any faster than that (often around 200/s) or you will start to see exposure differences between the top of your photo and the bottom. The dark part is the shutter going down in the middle of your flash pop. You can play a little with your shutter for creative effect, the longer you leave the shutter open the more available light will come in, this way you can combine your flash exposure with available light. Just play, you'll see what I mean."
     }
+    }, {
+    "@type": "Question",
+    "name": "My Guide Number is calculated at ISO 100, but I want to shoot at ISO 800, now what?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "That's going to add another calculation on your Guide Number. From ISO 100 to ISO 800 is in total 3 stops more light sensitivity. This means that your flash unit becomes 3 times more effective. So the only thing you need to do is multiply your Guide Number by the amount of stops you increase your ISO. In this case, *GN12 x 3 stops = GN36*. Be careful with this, though, as there's also a minimum to the light a flash unit can output."
+    }
+    }, {
+    "@type": "Question",
+    "name": "I really want to use my flash manually, but I can't calculate fast enough, now what?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "If you use a digital camera the answer is simple, set your camera to manual and play with the power division scale (1/1, 1/2, 1/4 power) on the flash. Shoot and review. Pretty soon you'll develop a sense for it, and you'll get it right on the first or second try. If you're like me and love to shoot film, the previous is not an option. When shooting black and white film you can really do a rough calculation, just pick an easy round number. I know the world parties about the ability to shoot raw and fiddle with the exposure in a raw editor, but I made 5 stop exposure errors on Kodak Tri-x 400 film and got away with it just fine."
+    }
+    }, {
+    "@type": "Question",
+    "name": "Do you know of an iPhone or Android app that can calculate for me?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text":"No I don't. You can search for it, but most camera flash units come with one build in, you probably just never knew it was there. I sometimes use my Nikon SB-800 with my Rolleicord or one of my Range Finder bodies. I switch the flash unit to manual and set the film ISO in the advanced menu. When you regulate the power level, there's a small distance scale in the top right corner which shows distance in, you guessed it, meters and feet. How is that for easy! Just guess the distance and set it, done."}
+    }]
+}
 </script>
