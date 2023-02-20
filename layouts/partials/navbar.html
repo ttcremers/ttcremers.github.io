@@ -9,7 +9,11 @@
 <nav class="navbar is-fixed-top" role="navigation" aria-label="main navigation">
     <div class="navbar-brand">
       <a href={{ relref . "/" }} class="navbar-item">
-        <img src={{ "logo_1-52x52.png" | absURL }} alt="Theodoor Thomas Life Photography">
+        <picture>
+          <source media="(max-width: 1280px)" srcset={{ "logo-square.png" | absURL }} />
+          <source media="(min-width: 1279px)" srcset={{ "logo-long.png" | absURL }} />
+          <img src={{ "logo-square.png" | absURL }} alt="Zone.Photos Logo" />
+        </picture>
       </a>
 
         <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="mainNavbar">
