@@ -22,7 +22,7 @@ categories:
 
 ### Interview with the author of the book “My Poland”, a passionate Dutch photographer who presents a romantic view of Poland.
 
-![Poznan Regional Market](/images/life-in-contrast/theodoorthomas-life-in-contrast-17.jpg)
+![Poznan Regional Market](/images/life-in-contrast/zonephotos-life-in-contrast-10.jpg)
 
 #### When did you start your journey in Poland?
 From a very early age, I’ve been fascinated by the eastern block countries. Back then, you would hear the term “iron curtain” quite often on the news. Being a child, with a vivid imagination, what you’d visualize was an actual iron curtain stretching across the land. I often tried to picture what people were like on the other side. These images of “the other side” I had in mind showed a completely different world.
@@ -51,7 +51,7 @@ First on my agenda, I have a plan to publish a book revealing my view of Poland,
 Yes, we need you here! Not only for economic reasons. We share a European identity which is often too easily forgotten. These last years we’ve had more freedom of movement between countries than ever before. We can be proud of our own traditions and at the same time enjoy our common European heritage. As you can see I’m not making any attempts to hide that I’m a European patriot. And before I forget I would like to ask all Poles in Holland with cooking skills to open a Polish restaurant. We have one Polish restaurant for 16 million  people in Holland. This is really not enough for such a wonderful, tasty and diverse cuisine.
 
 
-![Poznan Regional Market](/images/life-in-contrast/theodoorthomas-life-in-contrast-20.jpg)
+![Poznan Regional Market](/images/life-in-contrast/zonephotos-life-in-contrast-13.jpg)
 
 
 #### A few weeks ago you published the album “My Poland” which shows a very romantic view of this country.  Your point of view is quite different from that of the other photographers. Could you explain what inspired you to choose such a direction?
@@ -75,7 +75,7 @@ What I tried to document in those photos is a feeling of longing and nostalgia. 
 For a Dutch person it’s hard. If I had known how hard it really was in the beginning, I would probably have never started. Also, the fact that I’m dyslexic makes the writing an extra challenge. However, I have a really wonderful teacher in Wrocław. We still do 2 Skype  lessons a week and I meet up with her when I’m in Wrocław. I’ve had  lessons with her for 3 years now, and wouldn’t have got to where I am now if  it hadn’t been for those lessons. What I learned is that you need a teacher who knows how to teach Polish. I had a couple of classes in Holland once, and the teacher just printed out all verb groups for us (including ones that are hardly used anymore). And then asked us to study them. If, as a teacher,  you’re aiming to have smaller groups, then this is a very good tactic since you scare people away with such methods.
 
 
-![Poznan Regional Market](/images/life-in-contrast/theodoorthomas-life-in-contrast-25.jpg)
+![Poznan Regional Market](/images/life-in-contrast/zonephotos-life-in-contrast-11.jpg)
 
 ---
 
