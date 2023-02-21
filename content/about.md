@@ -19,8 +19,69 @@ I enjoy working with models and/or clients who value quality over quantity. My a
 
 I invite you to take a look at my portfolio and hope my work is able to move you in some way.
 
+Zone.Photos focusses on creating fine art portraiture and related creative works in and around the region of The Hague. We're located just outside of The Hague in the village of Monster, Westland.
+
+It is possible to buy prints of my work (or license them). Please contact me for more details.
+
 <div class="center mt-6" id="contact-me"><i class="fa-regular fa-envelope fa-2xl"></i></div>
 
 ### For collabs, questions or business inquiries, feel free to contact me
 
 **You can use the chat balloon in the lower right corner of every page to send me a message. I love to hear from you!**
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of photography do you specialize in?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "I specialize in creative/fine art portraiture. Furtermore and do a lot of street photography work. When working on more candid (portrait) assignments I use a simliar approuch as I would when working on the street."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where are you located?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "I'm located just outside of The Hague in the village of Monster, Westland."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What post-processing software do you use?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "I use Adobe Photoshop for all post-processing and compositing, with which I have extensive experience and expertise."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you offer post-processing or retouching services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, I offer post-processing and retouching services for general work as well as for help with restoring old photos."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is your approach to photo shoots and portraits?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "I value quality over quantity and aim to create a few authentic images that can stand the test of time. I work with clients who are the right fit to ensure a positive experience and desired outcome."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is it possible to buy prints of your work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, it is possible to buy prints of my work, or license them. Please contact me for more details."
+      }
+    }
+  ]
+}
+</script>
