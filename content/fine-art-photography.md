@@ -32,7 +32,7 @@ Therefor my response to the exclamation, "I could have made that" is often, "Per
 
 **exclamation** *noun*: a sudden cry or remark expressing surprise, strong emotion, or pain.
 
-Be careful before you start exclaiming dissatisfaction in front of a piece of art, you might just validate it ;-)
+So, think before you start exclaiming dissatisfaction in front of an art piece, you might validate it ;-)
 
 ## My fine art
 I've added the tag [fine-art](/tags/fine-art/) to the photos where my intention from the beginning was to create a [fine art photograph](/tags/fine-art/). I also added the [tag fine-art](/tags/fine-art/) when it felt like fine art after making the photograph.
