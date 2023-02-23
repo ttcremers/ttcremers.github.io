@@ -5,7 +5,7 @@ title: Portrait life in tone
 weight: 1
 tags:
 - 16th-century
-- Fine-Art
+- fine-art
 - composit
 - conceptual
 - digital-art
