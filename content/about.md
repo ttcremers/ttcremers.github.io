@@ -19,7 +19,7 @@ I enjoy working with models and/or clients who value quality over quantity. My a
 
 I invite you to take a look at my portfolio and hope my work is able to move you in some way.
 
-Zone.Photos focusses on creating fine art portraiture and related creative works in and around the region of The Hague. We're located just outside of The Hague in the village of Monster, Westland.
+Zone.Photos focuses on creating fine art portraiture and related creative works in and around the region of The Hague. We're located just outside The Hague in the village of Monster, Westland.
 
 It is possible to buy prints of my work (or license them). Please contact me for more details.
 

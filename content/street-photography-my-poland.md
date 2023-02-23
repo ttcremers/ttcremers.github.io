@@ -17,7 +17,7 @@ categories:
 
 *This interview with me (Thomas T. Cremers) was originally published in the [Bulletin of Polish-Dutch Cultural Association](https://pnkv.nl). Followed by an English translation on [Link to Poland](https://linktopoland.com/en/my-poland-by-thomas-cremers-dutch-photographer/).*
 
-[More images from the My Poland street photography project](/tags/my-poland)
+[More images from the "My Poland" street photography project](/tags/my-poland)
 
 
 ### Interview with the author of the book “My Poland”, a passionate Dutch photographer who presents a romantic view of Poland.
@@ -29,7 +29,7 @@ From a very early age, I’ve been fascinated by the eastern block countries. Ba
 
 Roughly around that time there was a Dutch band, Klein Orkest, which sang a song called “Over de Muur.” Although the song was about the Berlin wall itself, and people living on the either side of it, the lyrics could be applied to the Eastern Europe – Western Europe relationship in general. What I appreciate most about this song, is that it never tried to favour one side over the other.  As the state of affairs began to change rapidly, you would hear the name of Lech Walesa more and more often on the news. I learnt his name by heart, even though at that age I don’t think I fully realized who he really was, other than that he was Polish, and had something to do with freedom.
 
-Later, when the Berlin wall was being brought down, I was sitting in front of the TV looking at the scene where an excavator was tugging at the concrete with people sitting on top of the wall hitting it with hammers. In hindsight, I can appreciate the symbolic nature of that situation, where something that embodied repression was used to tear down the wall. Despite the humble age of eleven, the instant the crack in the wall became big enough for hands to shake was very emotional to me. Years later, I read “Wojna polsko-ruska” by Dorota Masłowska (a Dutch translation of course). I also saw an interview with her, conducted by a Dutch writer, which revived my interests, and made them more Poland-specific. Shortly after that, I met a Polish girl with whom I fell deeply in love. That was in 2007; the same year I visited Poland for the first time.
+Later, when the Berlin Wall was being brought down, I was sitting in front of the TV looking at the scene where an excavator was tugging at the concrete with people sitting on top of the wall hitting it with hammers. In hindsight, I can appreciate the symbolic nature of that situation, where something that embodied repression was used to tear down the wall. Despite the humble age of eleven, the instant the crack in the wall became big enough for hands to shake was very emotional to me. Years later, I read “Wojna polsko-ruska” by Dorota Masłowska (a Dutch translation of course). I also saw an interview with her, conducted by a Dutch writer, which revived my interests, and made them more Poland-specific. Shortly after that, I met a Polish girl with whom I fell deeply in love. That was in 2007; the same year I visited Poland for the first time.
 
 
 #### You have a special connection to Wroclaw – city where you took lessons of Polish language. Could you, please, explain why you chose to go to this city?
