@@ -26,9 +26,13 @@ Personally I find intention (1) and emotional impact (4) the most convincing of 
 Context (5) I have the most trouble with. We know that not everyone agrees that all work that is found in a museum is art. But that's not what I have a problem with. It's the idea that when a photograph is made for commercial or journalistic purposes it can't be art. I've seen many examples of both that I would consider art. Most classical painters that draw crowds today made their work for commercial purposes. Does anyone doubt that Michelangelo's work is art?
 
 ## Can a photograph invoke an emotional response?
-It seems that a big part of considering if something is art, is how we emotionally respond to it. So can a photo convey emotion, can it make you contemplate what you're seeing or even inspire you? Of course, it can! I know a photography, like no other medium, can produce art works of chance; unintentional pieces of artwork. We associate art with exceptional technical skill and are quick to dismiss art with the sentence, "I could have made that". However, skill is a tricky thing and on its own doesn't produce art without vision.
+It seems that a big part of considering if something is art, is how we emotionally respond to it. So can a photo convey emotion, can it make you contemplate what you're seeing or even inspire you? Of course, it can! I realize that photography, like no other medium, can produce art work of chance; unintentional artwork. We associate art with exceptional technical skill and are quick to dismiss art with, "I could have made that". However, skill alone can't produce art we need vision as well.
 
-Therefor my response to the sentence, "I could have made that" is often, "Perhaps, but you didn't". Technical skill is a lonely island without vision and creativity.
+Therefor my response to the exclamation, "I could have made that" is often, "Perhaps, but you didn't". Technical skill is a lonely island without vision and creativity.
+
+**exclamation** *noun*: a sudden cry or remark expressing surprise, strong emotion, or pain.
+
+Be careful before you start exclaiming dissatisfaction in front of a piece of art, you might just validate it ;-)
 
 ## My fine art
 I've added the tag [fine-art](/tags/fine-art/) to the photos where my intention from the beginning was to create a [fine art photograph](/tags/fine-art/). I also added the [tag fine-art](/tags/fine-art/) when it felt like fine art after making the photograph.
