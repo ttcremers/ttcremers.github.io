@@ -11,7 +11,7 @@ hideDate: true
 # What is fine art photography
 
 ## Art is what we decide is art
-Keeping the statement above in mind, defining what makes a photo a fine art is very subjective. However, there are several factors that seem to be considered when evaluating a photograph as fine art:
+Keeping the statement above in mind, defining what makes a photo fine art is very subjective. However, there are several factors that seem to be considered when evaluating a photograph as fine art:
 
 1. **Intention:** A fine art photograph is typically created with the intention of expressing the photographer's artistic vision or conveying a particular message or emotion. It is not simply a record of a scene or event, but rather an intentional creation.
 2. **Creativity:** A fine art photograph often demonstrates originality and creativity in its composition, lighting, and other artistic elements. It may be unconventional or challenge the viewer's expectations.
@@ -19,7 +19,7 @@ Keeping the statement above in mind, defining what makes a photo a fine art is v
 4. **Emotional impact:** A fine art photograph often evokes an emotional response in the viewer, whether it is a sense of beauty, wonder, contemplation, or some other feeling.
 5. **Context:** A fine art photograph is often presented in the context of an exhibition, gallery, or other artistic setting, rather than simply being used for commercial or journalistic purposes.
 
-What makes a photograph a fine art photograph seems to be a combination of these factors, plus the subjective response of the viewer. So again, subjectivity.
+What makes a fine art photograph seems to be a combination of these factors, plus the opinion of the viewer. So again, subjectivity.
 
 Personally I find intention (1) and emotional impact (4) the most convincing of this list. They are held up by creativity (2) and technical skill(3); you need vision and the ability to translate that vision into, in this case, a photograph.
 
