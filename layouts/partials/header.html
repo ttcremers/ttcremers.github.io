@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-{{/* Lame, only here to add the class (theme duplicate) */}}
 <html class="has-navbar-fixed-top">
 
 <head>
@@ -22,5 +21,14 @@
 	{{ partial "fonts.html" . }}
 	{{ partial "helpers/plausible" . }}
 </head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GBLD7612EJ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GBLD7612EJ');
+</script>
 
 <body>
