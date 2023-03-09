@@ -2,6 +2,7 @@
 images:
 - /images/holgaroid.jpg
 title: "The instant Holga"
+subtitle: "Meetering, corretion, which film and other tips for shooting with a Holga GN and the instant film back"
 hideExif: true
 hideDate: true
 hideTitle: true
@@ -30,7 +31,7 @@ A: Fuji Film sadly discontinued their ISO 400 color and black and white film, wh
 2.  FujiFilm FP-3000B. Which is a ISO 3000 Black and white film
 3.  FujiFilm FP-100C Silk. Also, a ISO 100 film but with a satin finish
 
-#### Metering and Corrections
+### Metering and Corrections
 
 Okay, let me start off with the simplest mod you can do. Are you ready? Here it goes: Don't install the new frame! Now that was easy. Alright, I'll tell you why. Holgaroids can't do full frame FP film size, so your image will always land on the left side of the film when viewed horizontally. The reason is that the Holga lens can't cover the entire frame ([the Diana lens does cover the whole frame, here is a guide](https://www.instantoptions.com/conversions/holga/)), so you get a round feathered image. Now, I don't care too much about the round feathered image, but I really didn't like the fact it was round and feathered on one side and a straight line on the other. The straight cut-off is caused by the frame they give you with it. Just don't install the frame and it all looks even.
 
@@ -44,9 +45,9 @@ All isn't lost! And to be honest, in some ways, it makes it even easier to shoot
 
 Here's how it works. Grab a light meter and set your Holga to the cloudy/flash setting. Normally that would make your Holga work on F16. I know there are a lot of posts out there that say it's F8, they're wrong, sorry. Anyway, due to the new distance of the film plane and the diopter lens, that turns out to be F32 now How's that for crazy! Set your light meter to ISO 100 and keep cycling the shutter speed until the display says the F-stop is 32. In side on a cloudy day next to the window that will give you a shutter of 2 seconds more or less. Easy to count, no problem. So that takes care of the ISO color film. Let's move on to the ISO 3000 film.
 
-#### **ISO 3000 Film**
+#### ISO 3000 Film
 
-So this is cute, mega sensitive film! But now it will over expose on a sunny day in the Holgaroid and still under expose inside. Worse still, it will just underexpose a bit inside which means we can't use a cable release as the shutter will be n'th of a second, and we can't really count that.
+So this is cute, mega sensitive film! But now it will over expose on a sunny day in the Holgaroid and still under expose inside. Worse still, it won't underexpose by much inside which means we can't use a cable release as the shutter will still be n'th of a second, and we can't really count that.
 
 Okay, let's go with outside first. The solution is really easy. When you get too much light at 100th of a second (the shutter speed of the Holga) make sure you get less light. You can go about this by just using an ND filter, but why not use a cheap black and white color filter, they eat up light as well, and you get to be a little bit more creative. Usually a stop or 2 on a sunny day with that camera on sunny setting is really more than enough. Red filters tend to eat away just that. If you don't have a red filter that fits your Holga you can also just get a cheap gel. It really doesn't matter much as the Holga doesn't have a high quality lens anyway and let's be honest, if you want images like that you'd probably not be shooting with a Holga to begin with.
 
