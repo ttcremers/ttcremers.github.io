@@ -3,7 +3,7 @@ images:
 - /images/women/zonephotos-women-2.jpg
 title: women
 tags:
-- Fine Art
+- FineArt
 - black and white
 - boudoir
 - buttock

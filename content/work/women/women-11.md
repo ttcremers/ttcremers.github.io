@@ -3,7 +3,7 @@ images:
 - /images/women/zonephotos-women-8.jpg
 title: women
 tags:
-- Fine Art
+- FineArt
 - boudoir
 - fotoshoot
 - model

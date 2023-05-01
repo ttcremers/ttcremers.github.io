@@ -4,7 +4,7 @@ images:
 title: women
 weigth: 10
 tags:
-- Fine Art
+- FineArt
 - black and white
 - boudoir
 - breast
