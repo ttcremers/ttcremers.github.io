@@ -35,7 +35,7 @@ Therefor my response to the exclamation, "I could have made that" is often, "Per
 So, think before you start exclaiming dissatisfaction in front of an art piece, you might validate it ;-)
 
 ## My fine art
-I've added the tag [fine-art](/tags/fine-art/) to the photos where my intention from the beginning was to create a [fine art photograph](/tags/fine-art/). I also added the [tag fine-art](/tags/fine-art/) when it felt like fine art after making the photograph.
+I've added the tag [fineart](/tags/fineart/) to the photos where my intention from the beginning was to create a [fine art photograph](/tags/fineart/). I also added the [tag fineart](/tags/fineart/) when it felt like fine art after making the photograph.
 
 Are you interested in a [fine art portrait](/tags/portrait/)? Or one of my prints?
 

@@ -4,7 +4,7 @@ images:
 title: photoart
 tags:
 - 16th century
-- FineArt
+- fineart
 - composit
 - conceptual
 - digital art

@@ -3,7 +3,7 @@ images:
 - /images/women/zonephotos-women-6.jpg
 title: women
 tags:
-- FineArt
+- fineart
 - black and white
 - boudoir
 - fotoshoot

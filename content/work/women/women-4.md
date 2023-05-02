@@ -3,7 +3,7 @@ images:
 - /images/women/zonephotos-women-1.jpg
 title: women
 tags:
-- FineArt
+- fineart
 - black and white
 - boudoir
 - delicate

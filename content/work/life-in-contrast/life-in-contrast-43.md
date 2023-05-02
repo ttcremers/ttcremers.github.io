@@ -3,7 +3,7 @@ images:
 - /images/life-in-contrast/zonephotos-life-in-contrast-48.jpg
 title: life-in-contrast
 tags:
-- fine-art
+- fineart
 - black-and-white
 - life-in-contrast
 - monochrome

@@ -3,7 +3,7 @@ images:
 - /images/phart/zonephotos-photoart-9.jpg
 title: photoart
 tags:
-- fine-art
+- fineart
 - birds
 - composit
 - conceptual

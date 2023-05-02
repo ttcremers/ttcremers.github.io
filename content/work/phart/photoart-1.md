@@ -4,7 +4,7 @@ images:
 title: photoart
 weight: -1
 tags:
-- FineArt
+- fineart
 - composit
 - conceptual
 - digital art

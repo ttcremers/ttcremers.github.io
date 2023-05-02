@@ -3,7 +3,7 @@ images:
 - /images/phart/zonephotos-photoart-6.jpg
 title: photoart
 tags:
-- fine-art
+- fineart
 - composit
 - conceptual
 - current-events

@@ -3,7 +3,7 @@ images:
 - /images/phart/zonephotos-photoart-8.jpg
 title: photoart
 tags:
-- FineArt
+- fineart
 - composit
 - conceptual
 - digital art
