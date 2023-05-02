@@ -6,8 +6,8 @@ tags:
 - fineart
 - composit
 - conceptual
-- digital art
-- fotoshoot
+- digital-art
+- photoshoot
 - phart
 - surrealism
 hideExif: true

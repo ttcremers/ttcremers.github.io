@@ -5,7 +5,7 @@ title: women
 tags:
 - fineart
 - boudoir
-- fotoshoot
+- photoshoot
 - model
 - nude
 - women

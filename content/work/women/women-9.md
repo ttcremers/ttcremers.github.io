@@ -6,7 +6,7 @@ tags:
 - fineart
 - black-and-white
 - boudoir
-- fotoshoot
+- photoshoot
 - nude
 - women
 hideExif: true

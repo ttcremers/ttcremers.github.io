@@ -6,7 +6,7 @@ tags:
 - fineart
 - composit
 - conceptual
-- digital art
+- digital-art
 - phart
 - surrealism
 hideExif: true

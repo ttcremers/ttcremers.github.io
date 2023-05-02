@@ -3,13 +3,13 @@ images:
 - /images/phart/zonephotos-photoart-4.jpg
 title: photoart
 tags:
-- 16th century
+- 16th-century
 - fineart
 - composit
 - conceptual
-- digital art
+- digital-art
 - family-portraits
-- golden age
+- golden-age
 - painterly
 - phart
 - portrait

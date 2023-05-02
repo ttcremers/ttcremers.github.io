@@ -4,7 +4,7 @@ images:
 title: women
 tags:
 - black-and-white
-- fotoshoot
+- photoshoot
 - model
 - nature
 - nude

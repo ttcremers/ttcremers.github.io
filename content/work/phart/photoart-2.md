@@ -5,7 +5,7 @@ title: photoart
 tags:
 - composit
 - conceptual
-- digital art
+- digital-art
 - phart
 - self-portrait
 - surrealism

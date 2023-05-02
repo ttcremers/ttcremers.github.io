@@ -7,7 +7,7 @@ tags:
 - fineart
 - composit
 - conceptual
-- digital art
+- digital-art
 - final
 - phart
 - surrealism

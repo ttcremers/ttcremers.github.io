@@ -3,7 +3,7 @@ images:
 - /images/life-in-tone/zonephotos-life-in-tone-1.jpg
 title: life-in-tone
 tags:
-- People
+- people
 - color
 - happy
 - laughter
