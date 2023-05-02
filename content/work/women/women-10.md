@@ -3,7 +3,7 @@ images:
 - /images/women/zonephotos-women-7.jpg
 title: women
 tags:
-- black and white
+- black-and-white
 - boudoir
 - delicate
 - full

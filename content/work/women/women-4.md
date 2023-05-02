@@ -4,7 +4,7 @@ images:
 title: women
 tags:
 - fineart
-- black and white
+- black-and-white
 - boudoir
 - delicate
 - lingerie

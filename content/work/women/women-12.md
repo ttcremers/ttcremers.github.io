@@ -4,7 +4,7 @@ images:
 title: women
 weight: 1
 tags:
-- black and white
+- black-and-white
 - natural
 - nature
 - soft
