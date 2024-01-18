@@ -1,29 +1,30 @@
 ---
 images:
-- /images/holgaroid.jpg
+  - /images/holgaroid.jpg
 title: "The instant Holga"
-subtitle: "Meetering, corretion, which film and other tips for shooting with a Holga GN and the instant film back"
+subtitle: "Metering, correction, which film and other tips for shooting with a Holga GN and the instant film back. Okay, let me start off with the simplest mod you can do. Are you ready?"
 hideExif: true
 hideDate: true
 hideTitle: true
 categories:
-- holga
-- film
-- instant
-- camera
-- instruction
-- shutter
-- manual
+  - holga
+  - film
+  - instant
+  - camera
+  - instruction
+  - shutter
+  - manual
 ---
+
 # The instant Holga
 
 Finally, my Holgaroid arrived in the mail, it traveled all the way from Hong Kong to my doorstep in The Netherlands. It came with the back (without film) and a diopter lens to correct for the new film plane distance, as with the instant back that moves a couple of millimeters backwards. It also comes with a new frame you can click into your Holga instead of the 6×6 or 6×4.5 But let me first start off with 2 questions and their simple answers.
 
-*Q: Polaroid doesn't make film anymore, so why would I want one?*
+_Q: Polaroid doesn't make film anymore, so why would I want one?_
 
 A: Correct they don't but FujiFilm does and since instant film is still used in science labs they won't stop making it tomorrow.
 
-Q: *I never shot instant film and I have no clue what film to use?*
+Q: _I never shot instant film and I have no clue what film to use?_
 
 A: Fuji Film sadly discontinued their ISO 400 color and black and white film, which would have been perfect for the Holgaroid. But fear not, we have tricks up our sleeves! So there are 3 films still available
 
@@ -35,9 +36,9 @@ A: Fuji Film sadly discontinued their ISO 400 color and black and white film, wh
 
 Okay, let me start off with the simplest mod you can do. Are you ready? Here it goes: Don't install the new frame! Now that was easy. Alright, I'll tell you why. Holgaroids can't do full frame FP film size, so your image will always land on the left side of the film when viewed horizontally. The reason is that the Holga lens can't cover the entire frame ([the Diana lens does cover the whole frame, here is a guide](https://www.instantoptions.com/conversions/holga/)), so you get a round feathered image. Now, I don't care too much about the round feathered image, but I really didn't like the fact it was round and feathered on one side and a straight line on the other. The straight cut-off is caused by the frame they give you with it. Just don't install the frame and it all looks even.
 
-One of the first things I started sweating and stressing out about is how to figure out what to set my light meter to now. Usually you can get away with using an ISO 400 film and applying the sunny 16 rule, if it's clouded all you do is throw it in flash/clouded mode and you can continue. **You can't use your Holga this way anymore!
+One of the first things I started sweating and stressing out about is how to figure out what to set my light meter to now. Usually you can get away with using an ISO 400 film and applying the sunny 16 rule, if it's clouded all you do is throw it in flash/clouded mode and you can continue. \*\*You can't use your Holga this way anymore!
 
-**When you move your film plain back it will affect your f-stop, when you stick something in front of your lens less light reaches the film plane. See the problem here? The Holgaroid does both... On top of that, we only get to choose between 100 ISO film and 3000 ISO film. If we had a 400 ISO film, we could have gotten away with only shooting on high noon and the camera set on its cloudy/flash setting, but we don't have that.
+\*\*When you move your film plain back it will affect your f-stop, when you stick something in front of your lens less light reaches the film plane. See the problem here? The Holgaroid does both... On top of that, we only get to choose between 100 ISO film and 3000 ISO film. If we had a 400 ISO film, we could have gotten away with only shooting on high noon and the camera set on its cloudy/flash setting, but we don't have that.
 
 #### ISO 100 Film
 
