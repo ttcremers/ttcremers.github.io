@@ -1,18 +1,20 @@
 ---
 images:
-- /images/theodoorthomas-vandykebrown-portrait.jpg
+  - /images/theodoorthomas-vandykebrown-portrait.jpg
 title: "Van Dyke Brown Contact Print Tips"
+subtitle: "Old photography techniques always fascinated me. So one day while enjoying an article detailing wet plate photography I stumbled upon a video which showed how to make a Van Dyke Brown print and decided to take a side step from my wet plate adventure and dive into Van Dyke Brown printing."
 hideExif: true
 hideDate: true
 hideTitle: true
 categories:
-- instruction
-- manual
-- printing
-- van-dyke-brown
-- darkroom
-- negative
+  - instruction
+  - manual
+  - printing
+  - van-dyke-brown
+  - darkroom
+  - negative
 ---
+
 # Van Dyke Brown Contact Print Tips
 
 #### Old not hard
@@ -34,7 +36,7 @@ Let's start with what you need and why.
 - Okay, moving on! Now for the really easy part. Getting the chemicals needed, if you're living in the US you're in luck, you guys got all the cool shops that sell everything for alternative processes. I bought my first [set from Bostick & Sullivan](http://www.bostick-sullivan.com/cart/product.php?productid=514&cat=48&page=1). I recommend getting this set as it contains enough chemicals for lots of prints, and it includes the fixer, everything you need, and you don't have to mix chemicals your self. It also includes a nice manual which will give you a couple of good tips. In my experience, the amount of sensitizer they advise using is a bit on the high side, however this also depends on the paper you use. In Europe, we have [Moersch for all your photochemical needs](https://www.moersch-photochemie.de/content/shop/edeldruck/132), they also sell the VDB sensitizer, this set only contains the sensitizer so no fixer.
 - **A brush to paint the sensitizer on the paper.** I like to use a nice soft goat hairbrush, you can get these at art shops, no problem. You can also use a foam brush, these are something like 1 euro, and you can also pick them up at an art shop
 - Now that you're at that art shop anyway also pickup some **watercolor paper**. This is what you will use to paint the sensitizer on. I suggest starting with a bit thicker paper, Arches hot pressed and Arches cold pressed will work nicely. There is a lot to be said about paper, I started out with the cheapest watercolor paper I could find. In my case that was still 100% cotton and it worked fine. Want to know more, [check here, they keep a list of what papers work well](http://www.alternativephotography.com/wp/paper/big-paper-survey-results). And here and e[xplanatory video on paper](http://www.youtube.com/watch?v=PrcwuC-x-BQ&feature=related)
-- Okay, almost there! Last thing on your list should be **transparency film for your ink jet printer**. This last bit is important it *has* to be for ink jet printers, it's really easy to accidentally buy it for a laser printer which will not work and make a big sticky inky mess of everything. The film you see everyone recommending is the transparency film from Pictorico, [which you can buy here](http://www.bostick-sullivan.com/cart/product.php?productid=1039&cat=227&page=1). However, I had some trouble finding that here in the EU, so I just went to the office supply store and bought some random stuff, guess what, works just fine. Now when I say, "works just fine" I really mean for my needs, a master printer that goes for perfection will probably have some really good arguments against it, however I'm not looking for perfection I'm looking for acceptable random imperfections. This is what make prints come alive to me.
+- Okay, almost there! Last thing on your list should be **transparency film for your ink jet printer**. This last bit is important it _has_ to be for ink jet printers, it's really easy to accidentally buy it for a laser printer which will not work and make a big sticky inky mess of everything. The film you see everyone recommending is the transparency film from Pictorico, [which you can buy here](http://www.bostick-sullivan.com/cart/product.php?productid=1039&cat=227&page=1). However, I had some trouble finding that here in the EU, so I just went to the office supply store and bought some random stuff, guess what, works just fine. Now when I say, "works just fine" I really mean for my needs, a master printer that goes for perfection will probably have some really good arguments against it, however I'm not looking for perfection I'm looking for acceptable random imperfections. This is what make prints come alive to me.
 
 So after you collected all this, you're ready to start. Here are a couple of links that with step by step instructions:
 

@@ -1,7 +1,9 @@
 ---
 title: "License"
+subtitle: "Welcome to Zone Photos! Thank you for taking the time to explore my work. If you are interested in using any of my photographs for commercial, editorial, or personal purposes, please contact me to discuss licensing terms and conditions."
 draft: false
 ---
+
 Welcome to Zone Photos! Thank you for taking the time to explore my work. If you are interested in using any of my photographs for commercial, editorial, or personal purposes, please contact me to discuss licensing terms and conditions.
 
 All of the photographs on this website are protected by copyright law, which means that any use of my images without permission is strictly prohibited. By obtaining a license, you will be able to legally use my photographs for your desired purposes, while respecting my intellectual property rights.

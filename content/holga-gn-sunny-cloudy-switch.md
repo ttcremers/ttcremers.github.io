@@ -1,16 +1,18 @@
 ---
 images:
-- /images/holga-gn-glass-lens.jpg
+  - /images/holga-gn-glass-lens.jpg
 title: "Holga GN cloudy sunny switch"
+subtitle: "I was convinced that on all Holga's the sunny/cloudy switch was just for show, as it turns out on a GN (glass lens) Holga it does do something- it gives you two aperture settings."
 hideExif: true
 hideDate: true
 hideTitle: true
 categories:
-- holga
-- film
-- camera
-- shutter
+  - holga
+  - film
+  - camera
+  - shutter
 ---
+
 # Holga GN cloudy sunny switch
 
 I was convinced that on all Holga's the sunny/cloudy switch was just for show, as it turns out on a GN (glass lens) Holga it does do something- it gives you two aperture settings.
