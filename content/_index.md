@@ -1,6 +1,6 @@
 ---
 desc:
-  - Capturing life's beauty with artful precision. Discover the magic in your everyday moments with Zone Photos. Contact us today to create lasting memories with stunning photography.
+  - Capturing life's beauty with artful precision. Discover the magic in your everyday moments with Zone Photos. Contact us today to create lasting memories with stunning photography on Rubenslaan, Monster, The Netherlands.
 featuredTags:
   - title: Life In Contrast
     alt: outside on the street happy drunk man with pretty girl in black and white

@@ -3,7 +3,7 @@ images:
   - /images/thomas-beanie-sized.jpg
 multipleColumn: true
 title: About
-subtitle: "Situated in the Dutch coastline city The Hague, I've been developing my photography skills over the past 20 years, always directed by my passion for the art of photography and the need to document life as I experience it."
+subtitle: "About me. I've been a photographer for the past 20 years, always directed by my passion for the art of photography and the need to document life as I experience it. I'm located on the Rubenslaan, Monster, The Netherlands"
 url: about
 hideTitle: true
 hideExif: true
