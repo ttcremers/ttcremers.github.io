@@ -28,7 +28,7 @@ params:
     - icon: 'fab fa-instagram fa-lg'
       url: 'https://instagram.com/theodoorthomas_photo_art'
       landing: true
-  homepage: "/life-in-contrast" # homepage link, mostly same with menu.main[0]
+  homepage: "/tags/life-in-contrast/" # homepage link, mostly same with menu.main[0]
   specialPages:
     - work
     - archive
@@ -50,7 +50,7 @@ taxonomies:
   category: categories
 
 permalinks:
-  work: ":filename/"
+  work: ":contentbasename/"
 
 menu:
   main:

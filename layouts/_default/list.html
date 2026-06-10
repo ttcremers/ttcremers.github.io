@@ -1,0 +1,100 @@
+{{ $term := or .Data.Term .Params.Title .Title }}
+
+{{ $portfolioScratch := newScratch }}
+{{ $portfolioMobileScratch := newScratch }}
+
+<!-- desktop columns -->
+{{ $columnsCount := 0 }}
+{{ if .Site.Params.portfolio.columns.desktop }}
+	{{ $columnsCount = index .Site.Params.portfolio.columns.desktop $term }}
+{{ end }}
+{{ if not $columnsCount }}
+	{{ if .Site.Params.portfolio.columns.desktop }}
+		{{ $columnsCount = index .Site.Params.portfolio.columns.desktop "default" }}
+	{{ end }}
+	{{ if not $columnsCount }}
+		{{ $columnsCount = 3 }}
+	{{ end }}
+{{ end }}
+
+{{ $posts := slice }}
+{{ if .Site.Taxonomies.tags }}
+	{{ $posts = index .Site.Taxonomies.tags $term }}
+	{{ $posts = sort $posts ".Params.weight" "desc" }}
+{{ end }}
+
+{{ $postsCount := len $posts }}
+{{ if lt $postsCount $columnsCount }}
+	{{ $columnsCount = $postsCount }}
+{{ end }}
+{{ $portfolioScratch.Set "columnsCount" $columnsCount }}
+{{ $portfolioScratch.Set "posts" $posts }}
+
+{{ $loopCount := 1 }}
+{{ $loopFlag := 0 }}
+{{ $posts = sort $posts "Page" "desc" }}
+{{ range $i, $post := $posts }}
+	{{ if gt $loopFlag (sub $columnsCount 1) }}
+		{{ $loopFlag = 0 }}
+	{{ end }}
+	{{ range $index, $num := (seq $columnsCount) }}
+		{{ if eq (sub $loopFlag $index) 0 }}
+			{{ $column := $portfolioScratch.Get (printf "%d" $index) }}
+			{{ $column = $column | append (dict "post" $post "loopCount" $loopCount) }}
+			{{ $portfolioScratch.Set (printf "%d" $index) $column }}
+		{{ end }}
+	{{ end }}
+	{{ $loopCount = (add $loopCount 1) }}
+	{{ $loopFlag = (add $loopFlag 1) }}
+{{ end }}
+
+<!-- mobile columns -->
+{{ $mobileColumnsCount := 0 }}
+{{ if .Site.Params.portfolio.columns.mobile }}
+	{{ $mobileColumnsCount = index .Site.Params.portfolio.columns.mobile $term }}
+{{ end }}
+{{ if not $mobileColumnsCount }}
+	{{ if .Site.Params.portfolio.columns.mobile }}
+		{{ $mobileColumnsCount = index .Site.Params.portfolio.columns.mobile "default" }}
+	{{ end }}
+	{{ if not $mobileColumnsCount }}
+		{{ $mobileColumnsCount = 2 }}
+	{{ end }}
+{{ end }}
+{{ if lt $postsCount $mobileColumnsCount }}
+	{{ $mobileColumnsCount = $postsCount }}
+{{ end }}
+{{ $portfolioMobileScratch.Set "columnsCount" $mobileColumnsCount }}
+{{ $portfolioMobileScratch.Set "posts" $posts }}
+{{ $loopCount := 1 }}
+{{ $loopFlag := 0 }}
+{{ range $i, $post := $posts }}
+	{{ if gt $loopFlag (sub $mobileColumnsCount 1) }}
+		{{ $loopFlag = 0 }}
+	{{ end }}
+	{{ range $index, $num := (seq $mobileColumnsCount) }}
+		{{ if eq (sub $loopFlag $index) 0 }}
+			{{ $column := $portfolioMobileScratch.Get (printf "%d" $index) }}
+			{{ $column = $column | append (dict "post" $post "loopCount" $loopCount) }}
+			{{ $portfolioMobileScratch.Set (printf "%d" $index) $column }}
+		{{ end }}
+	{{ end }}
+	{{ $loopCount = (add $loopCount 1) }}
+	{{ $loopFlag = (add $loopFlag 1) }}
+{{ end }}
+
+{{ partial "header.html" . }}
+{{ partial "navbar.html" . }}
+
+<section id="desktop" class="section work">
+	{{ partial "helpers/hidden-menu.html" . }}
+	{{ partial "slides/slider" (dict "scratch" $portfolioScratch "type" "desktop" "ctx" .) }}
+</section>
+
+<section id="mobile" class="section work">
+	{{ partial "helpers/hidden-menu.html" . }}
+	{{ partial "slides/slider" (dict "scratch" $portfolioMobileScratch "type" "mobile" "ctx" .) }}
+</section>
+
+{{ partial "slides/slides" $portfolioScratch }}
+{{ partial "footer" . }}

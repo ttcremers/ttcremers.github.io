@@ -20,7 +20,7 @@ logs:
 	docker --config .docker compose logs --no-color --tail 100
 
 build:
-	docker --config .docker compose run --rm -e HUGO_ENVIRONMENT=production -e HUGO_ENV=production server --minify --baseURL https://zone.photos/
+	docker --config .docker compose run --rm -e HUGO_ENVIRONMENT=production -e HUGO_ENV=production server --minify --noTimes --noChmod --baseURL https://zone.photos/
 
 status:
 	docker --config .docker compose ps
