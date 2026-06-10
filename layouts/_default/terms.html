@@ -1,0 +1,40 @@
+{{ partial "header.html" . }}
+
+{{ partial "navbar.html" . }}
+
+<section class="section work">
+	{{ partial "helpers/hidden-menu.html" . }}
+
+	<div class="tags-list center">
+		<div class="slide-info">
+			<div class="content">
+				{{ if .Content }}
+					{{ .Content }}
+				{{ else if or .Description .Params.subtitle }}
+					{{ with .Description }}
+						<p>{{ . }}</p>
+					{{ end }}
+					{{ with .Params.subtitle }}
+						<p>{{ . }}</p>
+					{{ end }}
+				{{ end }}
+				<div class="columns is-multiline mt-2">
+					{{ range sort .Site.Taxonomies.tags "Count" "desc" }}
+						<div class="column is-half">
+							<div class="slide-tag center">
+								<p>
+									<a href="{{ .Page.Permalink }}">
+										<i class="fas fa-tags"></i>
+										{{ .Page.Title }} ({{ .Count }})
+									</a>
+								</p>
+							</div>
+						</div>
+					{{ end }}
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+{{ partial "footer.html" . }}

@@ -8,6 +8,7 @@ subtitle: "From a very early age, I’ve been fascinated by the (what they calle
 hideExif: true
 hideDate: true
 hideTitle: true
+description: "An interview and photo project by Thomas T. Cremers about Poland, street photography, and the mood of the old Iron Curtain."
 categories:
   - article
   - Poland

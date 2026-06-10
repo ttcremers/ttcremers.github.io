@@ -8,6 +8,7 @@ subtitle: "It sounds pretty scary but it’s actually not that complicated. What
 hideExif: true
 hideDate: true
 hideTitle: true
+description: "A practical guide to calculating flash exposure using guide numbers, distance, aperture, and sync speed."
 categories:
   - flash
   - calculate

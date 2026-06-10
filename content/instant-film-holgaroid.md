@@ -8,6 +8,7 @@ subtitle: "Metering, correction, which film and other tips for shooting with a H
 hideExif: true
 hideDate: true
 hideTitle: true
+description: "Tips for shooting a Holga GN with the instant film back, including metering, film choices, correction, and flash."
 categories:
   - holga
   - film

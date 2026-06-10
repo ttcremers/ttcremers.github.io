@@ -4,11 +4,15 @@ defaultContentLanguage: 'en'
 theme: eternity
 googleAnalytics: ''
 enableRobotsTXT: true
+minify:
+  minifyOutput: true
 
 params:
+  sitename: Zone Photos
   googleAnalyticsId: 'G-GBLD7612EJ'
   image: /images/banner.png
-  subtitle: "Capturing with artful precision. Discover the magic in your everyday moments with Zone Photos. Contact us to create lasting memories with stunning photography."
+  subtitle: "Fine art portraiture, black and white street photography, and conceptual photo art from Monster, The Netherlands."
+  description: "Zone Photos is the portfolio of Thomas T. Cremers, a photographer working in fine art portraiture, black and white street photography, and conceptual photo art from Monster near The Hague."
   copyright: All rights reserved.
   author: Thomas T. Cremers
   dontShowSource: false # please, do not do this :)
