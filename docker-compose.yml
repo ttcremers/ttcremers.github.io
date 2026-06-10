@@ -1,7 +1,7 @@
 services:
   server:
     container_name: theodoorthomas
-    image: klakegg/hugo:0.108.0
+    image: ghcr.io/gohugoio/hugo:v0.163.0
     command: server
     volumes:
       - ".:/src"
