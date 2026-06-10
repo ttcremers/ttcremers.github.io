@@ -22,7 +22,15 @@
 									{{ $image := $scratch.Get "img" }}
 									{{ $alt := .alt }}
 									{{ with $image }}
-                    <img src="{{ $image.RelPermalink }}" loading="lazy" alt="{{ $alt }}" />
+                    <img
+                      src="{{ $image.RelPermalink }}"
+                      alt="{{ $alt }}"
+                      loading="eager"
+                      fetchpriority="high"
+                      decoding="async"
+                      width="{{ $image.Width }}"
+                      height="{{ $image.Height }}"
+                    />
 									{{end}}
 								</div>
 								<p>{{ .title }}</p>

@@ -87,6 +87,23 @@
     "author" $author
     "publisher" $publisher
   ) -}}
+{{- else if eq .Section "work" -}}
+  {{- $schema = merge $schema (dict
+    "@type" "VisualArtwork"
+    "name" $pageTitle
+    "headline" $pageTitle
+    "url" .Permalink
+    "description" $description
+    "artform" "Photography"
+    "inLanguage" .Site.Language.Lang
+    "author" $author
+    "creator" $author
+    "publisher" $publisher
+    "mainEntityOfPage" (dict "@type" "WebPage" "@id" .Permalink)
+  ) -}}
+  {{- with .Params.tags -}}
+    {{- $schema = merge $schema (dict "keywords" (delimit . ", ")) -}}
+  {{- end -}}
 {{- else -}}
   {{- $schema = merge $schema (dict
     "@type" "BlogPosting"

@@ -4,7 +4,7 @@ images:
 title: "How to Calculate Flash Exposure"
 aliases:
   - /blog/how-to-calculate-flash-exposure
-subtitle: "It sounds pretty scary but it’s actually not that complicated. What are the ingredients? It’s a simple division, lets get started."
+subtitle: "A practical guide to flash exposure: guide numbers, distance, aperture, and sync speed."
 hideExif: true
 hideDate: true
 hideTitle: true
@@ -22,7 +22,7 @@ categories:
 
 # How to Calculate Flash Exposure
 
-## It sounds pretty scary but it’s actually not that complicated. What are the ingredients? It’s a simple division, lets get started.
+## It sounds pretty scary but it’s actually not that complicated. What are the ingredients? It’s a simple division, let's get started.
 
 ### Guide Number
 
@@ -34,7 +34,7 @@ Because light likes to fall-off or lose power as it travels, we need to take the
 
 ### The Division
 
-We're ready to calculate our flash exposure! What we need is the f-stop. Shutter speed is only for continues lighting like the sun etc. Flash duration to power ratio is too short for the shutter to have any effect (this is a whole different subject, so just forget about it now) so we calculate the amount of light hitting the film or sensor surface (f-stop) and not the duration (shutter speed). We do that by a simple division, let's take the Guide Number 12 as an example and speculate that we're 5 meters from our subject:
+We're ready to calculate our flash exposure! What we need is the f-stop. Shutter speed is only for continuous lighting like the sun etc. Flash duration to power ratio is too short for the shutter to have any effect (this is a whole different subject, so just forget about it now) so we calculate the amount of light hitting the film or sensor surface (f-stop) and not the duration (shutter speed). We do that by a simple division, let's take the Guide Number 12 as an example and speculate that we're 5 meters from our subject:
 
 _GN12 / 5 Meters = F2.4_
 

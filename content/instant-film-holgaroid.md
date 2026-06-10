@@ -4,7 +4,7 @@ images:
 title: "The instant Holga"
 aliases:
   - /blog/holgaroid
-subtitle: "Metering, correction, which film and other tips for shooting with a Holga GN and the instant film back. Okay, let me start off with the simplest mod you can do. Are you ready?"
+subtitle: "Metering, film choices, correction, and flash tips for shooting a Holga GN with the instant film back."
 hideExif: true
 hideDate: true
 hideTitle: true
@@ -29,7 +29,7 @@ A: Correct they don't but FujiFilm does and since instant film is still used in 
 
 Q: _I never shot instant film and I have no clue what film to use?_
 
-A: Fuji Film sadly discontinued their ISO 400 color and black and white film, which would have been perfect for the Holgaroid. But fear not, we have tricks up our sleeves! So there are 3 films still available
+A: Fuji Film sadly discontinued their ISO 400 color and black and white film, which would have been perfect for the Holgaroid. But fear not, we have tricks up our sleeves. So there are three films still available:
 
 1.  FujiFilm FP-100C Professional. Which is an ISO 100 color film
 2.  FujiFilm FP-3000B. Which is a ISO 3000 Black and white film
