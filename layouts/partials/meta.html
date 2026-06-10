@@ -57,26 +57,104 @@
 {{- end }}
 <meta property="og:locale" content="{{ .Language.Lang }}">
 
-{{- $schemaType := "WebPage" -}}
-{{- if .IsHome -}}
-  {{- $schemaType = "WebSite" -}}
-{{- else if or (eq .Kind "taxonomy") (eq .Kind "term") -}}
-  {{- $schemaType = "CollectionPage" -}}
-{{- end -}}
-{{- $schema := dict
-  "@context" "https://schema.org"
-  "@type" $schemaType
-  "name" $pageTitle
-  "url" .Permalink
-  "description" $description
-  "inLanguage" .Site.Language.Lang
--}}
+{{- $author := dict "@type" "Person" "name" .Site.Params.author -}}
+{{- $publisher := dict "@type" "Organization" "name" $siteTitle "url" .Site.BaseURL -}}
+{{- $schema := dict "@context" "https://schema.org" -}}
 {{- if .IsHome -}}
   {{- $schema = merge $schema (dict
-    "publisher" (dict
-      "@type" "Person"
-      "name" .Site.Params.author
-    )
+    "@type" "WebSite"
+    "name" $siteTitle
+    "url" .Site.BaseURL
+    "description" $description
+    "inLanguage" .Site.Language.Lang
+    "publisher" $publisher
   ) -}}
+{{- else if or (eq .Kind "taxonomy") (eq .Kind "term") -}}
+  {{- $schema = merge $schema (dict
+    "@type" "CollectionPage"
+    "name" $pageTitle
+    "url" .Permalink
+    "description" $description
+    "inLanguage" .Site.Language.Lang
+  ) -}}
+{{- else if eq .RelPermalink "/about/" -}}
+  {{- $schema = merge $schema (dict
+    "@type" "AboutPage"
+    "name" $pageTitle
+    "url" .Permalink
+    "description" $description
+    "inLanguage" .Site.Language.Lang
+    "author" $author
+    "publisher" $publisher
+  ) -}}
+{{- else -}}
+  {{- $schema = merge $schema (dict
+    "@type" "BlogPosting"
+    "headline" $pageTitle
+    "name" $pageTitle
+    "url" .Permalink
+    "description" $description
+    "inLanguage" .Site.Language.Lang
+    "author" $author
+    "publisher" $publisher
+    "mainEntityOfPage" (dict "@type" "WebPage" "@id" .Permalink)
+  ) -}}
+  {{- with .Date -}}
+    {{- $schema = merge $schema (dict "datePublished" (.Format "2006-01-02T15:04:05Z07:00")) -}}
+  {{- end -}}
+  {{- with .Lastmod -}}
+    {{- $schema = merge $schema (dict "dateModified" (.Format "2006-01-02T15:04:05Z07:00")) -}}
+  {{- end -}}
+{{- end -}}
+{{- with $img -}}
+  {{- $schema = merge $schema (dict "image" (slice .Permalink)) -}}
 {{- end -}}
 <script type="application/ld+json">{{ $schema | jsonify | safeJS }}</script>
+
+{{- $breadcrumbItems := slice (dict
+  "@type" "ListItem"
+  "position" 1
+  "name" $siteTitle
+  "item" .Site.BaseURL
+) -}}
+{{- if not .IsHome -}}
+  {{- if or (eq .Kind "taxonomy") (eq .Kind "term") -}}
+    {{- $breadcrumbItems = $breadcrumbItems | append (dict
+      "@type" "ListItem"
+      "position" 2
+      "name" "Tags"
+      "item" (absURL "tags/")
+    ) -}}
+    {{- if eq .Kind "term" -}}
+      {{- $breadcrumbItems = $breadcrumbItems | append (dict
+        "@type" "ListItem"
+        "position" 3
+        "name" $pageTitle
+        "item" .Permalink
+      ) -}}
+    {{- end -}}
+  {{- else -}}
+    {{- $breadcrumbItems = $breadcrumbItems | append (dict
+      "@type" "ListItem"
+      "position" 2
+      "name" $pageTitle
+      "item" .Permalink
+    ) -}}
+  {{- end -}}
+  <script type="application/ld+json">{{ dict "@context" "https://schema.org" "@type" "BreadcrumbList" "itemListElement" $breadcrumbItems | jsonify | safeJS }}</script>
+{{- end -}}
+
+{{- if eq .Kind "term" -}}
+  {{- $itemList := slice -}}
+  {{- range $idx, $page := first 10 (.Pages.ByWeight.Reverse) -}}
+    {{- $itemList = $itemList | append (dict
+      "@type" "ListItem"
+      "position" (add $idx 1)
+      "name" $page.Title
+      "url" $page.Permalink
+    ) -}}
+  {{- end -}}
+  {{- if gt (len $itemList) 0 -}}
+    <script type="application/ld+json">{{ dict "@context" "https://schema.org" "@type" "ItemList" "name" $pageTitle "itemListElement" $itemList | jsonify | safeJS }}</script>
+  {{- end -}}
+{{- end -}}

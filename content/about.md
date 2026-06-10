@@ -15,7 +15,13 @@ hideDate: true
 
 Situated in the Dutch coastline city The Hague, I've been developing my photography skills over the past 20 years, always directed by my passion for the art of photography and the need to document life as I experience it.
 
-A lot of the photographs you will find here can be categorized as [street photography](/tags/street-photography), capturing everyday life in [contrast](/tags/life-in-contrast) and - less frequent -[tone](/tags/life-in-tone). My goal is to present my perspective on the world or, to quote Garry Winogrand, _“I photograph to see what the world looks like in photographs.”_.
+**What I focus on**
+
+- Black and white street photography
+- Fine art portraiture
+- Conceptual photo art and composites
+
+A lot of the photographs you will find here can be categorized as [street photography](/tags/street-photography), capturing everyday life in [contrast](/tags/life-in-contrast) and, less frequently, [tone](/tags/life-in-tone). My goal is to present my perspective on the world or, to quote Garry Winogrand, _"I photograph to see what the world looks like in photographs."_
 
 When I'm not roaming the streets I occasionally do [portrait assignments](/tags/portrait) or more [conceptual work](/tags/phart), which you can find under [Phart](/tags/phart) (Photo Art). All post-processing and compositing I do in Adobe Photoshop, with which I have extensive experience. If you're stuck on an image and need some help, or you have an old photo you would like restored, I can help out. For more general post-processing and retouching, I'm available as well.
 
