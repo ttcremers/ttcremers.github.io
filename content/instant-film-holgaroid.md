@@ -2,6 +2,8 @@
 images:
   - /images/holgaroid.jpg
 title: "The instant Holga"
+aliases:
+  - /blog/holgaroid
 subtitle: "Metering, correction, which film and other tips for shooting with a Holga GN and the instant film back. Okay, let me start off with the simplest mod you can do. Are you ready?"
 hideExif: true
 hideDate: true

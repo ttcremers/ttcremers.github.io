@@ -2,6 +2,8 @@
 images:
   - /images/flash_calc.jpg
 title: "How to Calculate Flash Exposure"
+aliases:
+  - /blog/how-to-calculate-flash-exposure
 subtitle: "It sounds pretty scary but it’s actually not that complicated. What are the ingredients? It’s a simple division, lets get started."
 hideExif: true
 hideDate: true
