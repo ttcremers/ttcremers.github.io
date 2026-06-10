@@ -2,7 +2,9 @@ services:
   server:
     container_name: theodoorthomas
     image: ghcr.io/gohugoio/hugo:v0.163.0
-    command: server
+    command: server --bind 0.0.0.0 --noBuildLock --noTimes --noChmod
+    working_dir: /src
+    user: "0:0"
     volumes:
       - ".:/src"
     ports:
