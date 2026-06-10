@@ -8,6 +8,7 @@ subtitle: "Old photography techniques always fascinated me. So one day while enj
 hideExif: true
 hideDate: true
 hideTitle: true
+description: "Practical tips for Van Dyke Brown contact printing, digital negatives, chemistry, paper, and exposure."
 categories:
   - instruction
   - manual

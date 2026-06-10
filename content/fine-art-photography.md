@@ -6,6 +6,7 @@ title: What is fine art photography
 subtitle: "Art is what we decide is art .Keeping the statement above in mind, defining what makes a photo fine art is very subjective. However, there are several factors that seem to be considered when evaluating a photograph as fine art"
 url: fine-art-photography
 hideTitle: true
+description: "A practical essay on fine art photography, including intention, creativity, technical skill, emotional impact, and context."
 hideExif: true
 hideDate: true
 ---

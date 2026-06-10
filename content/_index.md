@@ -1,6 +1,7 @@
 ---
 desc:
-  - Capturing life's beauty with artful precision. Discover the magic in your everyday moments with Zone Photos. Contact us today to create lasting memories with stunning photography on Rubenslaan, Monster, The Netherlands.
+  - Fine art portraiture, black and white street photography, and conceptual photo art from Monster, near The Hague.
+  - Browse the main collections below or go straight to the tag pages for the strongest bodies of work.
 featuredTags:
   - title: Life In Contrast
     alt: outside on the street happy drunk man with pretty girl in black and white

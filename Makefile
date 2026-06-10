@@ -1,3 +1,5 @@
+.SHELLFLAGS := -NoProfile -Command
+SHELL := powershell.exe
 .DEFAULT_GOAL := help
 
 .PHONY: help up down logs build status
