@@ -2,6 +2,8 @@
 images:
   - /images/street-photography-my-poland.jpg
 title: "Street Photography My Poland"
+aliases:
+  - /blog/street-photography-in-poland
 subtitle: "From a very early age, I’ve been fascinated by the (what they called back then) eastern block countries. Back then, you would hear the term “iron curtain” quite often on the news. Being a child, with a vivid imagination, what you’d visualize was an actual iron curtain stretching across the land."
 hideExif: true
 hideDate: true

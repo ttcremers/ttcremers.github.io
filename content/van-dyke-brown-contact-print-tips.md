@@ -2,6 +2,8 @@
 images:
   - /images/theodoorthomas-vandykebrown-portrait.jpg
 title: "Van Dyke Brown Contact Print Tips"
+aliases:
+  - /blog/van-dyck-brown
 subtitle: "Old photography techniques always fascinated me. So one day while enjoying an article detailing wet plate photography I stumbled upon a video which showed how to make a Van Dyke Brown print and decided to take a side step from my wet plate adventure and dive into Van Dyke Brown printing."
 hideExif: true
 hideDate: true

@@ -2,10 +2,11 @@ baseURL: https://zone.photos
 title: Zone Photos # todo: change site name.
 defaultContentLanguage: 'en'
 theme: eternity
-googleAnalytics: '' # todo: set your analytics id.
+googleAnalytics: ''
 enableRobotsTXT: true
 
 params:
+  googleAnalyticsId: 'G-GBLD7612EJ'
   image: /images/banner.png
   subtitle: "Capturing with artful precision. Discover the magic in your everyday moments with Zone Photos. Contact us to create lasting memories with stunning photography."
   copyright: All rights reserved.
