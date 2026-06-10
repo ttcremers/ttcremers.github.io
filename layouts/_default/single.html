@@ -1,0 +1,75 @@
+{{ partial "header.html" . }}
+
+{{ partial "navbar.html" . }}
+
+<section class="section">
+	{{ partial "slides/slide.html" (dict "disableFullheight" true "ctx" .) }}
+
+	{{ $tagLinks := slice }}
+	{{ $featuredLinks := slice }}
+	{{ $linkMap := dict
+		"black-and-white" "/tags/black-and-white/"
+		"fineart" "/tags/fineart/"
+		"holga" "/instant-film-holgaroid/"
+		"life-in-contrast" "/tags/life-in-contrast/"
+		"life-in-tone" "/tags/life-in-tone/"
+		"phart" "/tags/phart/"
+		"portrait" "/tags/portrait/"
+		"poland" "/street-photography-my-poland/"
+		"street-photography" "/tags/street-photography/"
+		"van-dyke-brown" "/van-dyke-brown-contact-print-tips/"
+		"flash" "/how-to-calculate-flash-exposure/"
+	}}
+	{{ range .Params.tags }}
+		{{ $tagName := . }}
+		{{ if not (in (slice "work" "archive" "fineart" "portrait" "street-photography" "black-and-white" "life-in-contrast" "life-in-tone" "women" "phart") $tagName) }}
+			{{ $tagLinks = $tagLinks | append (dict "name" $tagName "url" (printf "/tags/%s/" $tagName)) }}
+		{{ end }}
+		{{ with index $linkMap $tagName }}
+			{{ $featuredLinks = $featuredLinks | append (dict "name" $tagName "url" .) }}
+		{{ end }}
+	{{ end }}
+
+	{{ if eq .RelPermalink "/about/" }}
+		{{ $featuredLinks = slice
+			(dict "name" "Life in Contrast" "url" "/tags/life-in-contrast/")
+			(dict "name" "Street Photography" "url" "/tags/street-photography/")
+			(dict "name" "Fine Art Photography" "url" "/fine-art-photography/")
+			(dict "name" "Van Dyke Brown Contact Print Tips" "url" "/van-dyke-brown-contact-print-tips/")
+		}}
+	{{ else if eq (len $featuredLinks) 0 }}
+		{{ $featuredLinks = slice
+			(dict "name" "About" "url" "/about/")
+			(dict "name" "Life in Contrast" "url" "/tags/life-in-contrast/")
+			(dict "name" "Street Photography" "url" "/tags/street-photography/")
+			(dict "name" "How to Calculate Flash Exposure" "url" "/how-to-calculate-flash-exposure/")
+		}}
+	{{ end }}
+
+	{{ if or (gt (len $tagLinks) 0) (gt (len $featuredLinks) 0) }}
+		<div class="center">
+			<div class="slide-info">
+				<div class="content">
+					{{ if gt (len $tagLinks) 0 }}
+						<p><strong>More tag pages</strong></p>
+						<ul>
+							{{ range $tagLinks }}
+								<li><a href="{{ .url }}">{{ .name }}</a></li>
+							{{ end }}
+						</ul>
+					{{ end }}
+					{{ if gt (len $featuredLinks) 0 }}
+						<p><strong>Featured reading</strong></p>
+						<ul>
+							{{ range $featuredLinks }}
+								<li><a href="{{ .url }}">{{ .name }}</a></li>
+							{{ end }}
+						</ul>
+					{{ end }}
+				</div>
+			</div>
+		</div>
+	{{ end }}
+</section>
+
+{{ partial "footer.html" . }}
