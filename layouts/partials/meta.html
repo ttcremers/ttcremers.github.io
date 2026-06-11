@@ -29,7 +29,7 @@
 <meta property="og:url" content="{{ .Permalink }}" />
 <meta name="twitter:url" content="{{ .Permalink }}" />
 <meta name="robots" content="{{ if eq $pageTitle "404" }}noindex, nofollow{{ else }}index, follow{{ end }}" />
-<meta property="og:type" content="{{ if .IsHome }}website{{ else if or (eq .Kind "taxonomy") (eq .Kind "term") }}collection{{ else }}article{{ end }}" />
+<meta property="og:type" content="{{ if or .IsHome (eq .Params.pageType "landing") }}website{{ else if or (eq .Kind "taxonomy") (eq .Kind "term") }}collection{{ else }}article{{ end }}" />
 {{- $card := "summary" -}}
 {{- $img := slice -}}
 {{- $scratch := newScratch -}}
@@ -69,7 +69,7 @@
     "inLanguage" .Site.Language.Lang
     "publisher" $publisher
   ) -}}
-{{- else if or (eq .Kind "taxonomy") (eq .Kind "term") -}}
+{{- else if or (eq .Kind "taxonomy") (eq .Kind "term") (eq .Params.pageType "landing") -}}
   {{- $schema = merge $schema (dict
     "@type" "CollectionPage"
     "name" $pageTitle

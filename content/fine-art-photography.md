@@ -9,6 +9,10 @@ hideTitle: true
 description: "A practical essay on fine art photography, including intention, creativity, technical skill, emotional impact, and context."
 hideExif: true
 hideDate: true
+categories:
+  - fineart
+  - portrait
+  - article
 ---
 
 # What is fine art photography
@@ -38,6 +42,8 @@ Therefore my response to the exclamation, "I could have made that" is often, "Pe
 **exclamation** _noun_: a sudden cry or remark expressing surprise, strong emotion, or pain.
 
 So, think before you start exclaiming dissatisfaction in front of an art piece, you might validate it ;-)
+
+If you want the portfolio side rather than the essay, start with [Fine Art Portraiture](/fine-art-portraiture/) and [Phart](/tags/phart/).
 
 ## My fine art
 

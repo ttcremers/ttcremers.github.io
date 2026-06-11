@@ -9,6 +9,10 @@ hideExif: true
 hideDate: true
 hideTitle: true
 description: "An interview and photo project by Thomas T. Cremers about Poland, street photography, and the mood of the old Iron Curtain."
+tags:
+  - my-poland
+  - street-photography
+  - poland
 categories:
   - article
   - Poland
@@ -22,7 +26,7 @@ categories:
 
 _This interview with me (Thomas T. Cremers) was originally published in the [Bulletin of Polish-Dutch Cultural Association](https://pnkv.nl). Followed by an English translation on [Link to Poland](https://linktopoland.com/en/my-poland-by-thomas-cremers-dutch-photographer/)._
 
-[More images from the "My Poland" street photography project](/tags/my-poland)
+[More images from the "My Poland" street photography project](/tags/my-poland/)
 
 ### Interview with the author of the book “My Poland”, a passionate Dutch photographer who presents a romantic view of Poland.
 

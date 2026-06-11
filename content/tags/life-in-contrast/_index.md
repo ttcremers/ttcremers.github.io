@@ -14,3 +14,5 @@ aliases:
 Life in Contrast is the black and white side of the portfolio. It holds the street moments, portraits, and documentary scenes where gesture and contrast matter more than color.
 
 This collection is the best place to start if you want to see the visual language that defines the rest of the site.
+
+If you want the broader entry page for the black and white work, start with [Black and White Street Photography](/black-and-white-street-photography/) or [My Poland](/tags/my-poland/).

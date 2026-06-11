@@ -17,11 +17,11 @@ Situated in the Dutch coastline city The Hague, I've been developing my photogra
 
 **What I focus on**
 
-- Black and white street photography
-- Fine art portraiture
-- Conceptual photo art and composites
+- [Black and white street photography](/black-and-white-street-photography/)
+- [Fine art portraiture](/fine-art-portraiture/)
+- [Conceptual photo art and composites](/tags/phart/)
 
-A lot of the photographs you will find here can be categorized as [street photography](/tags/street-photography), capturing everyday life in [contrast](/tags/life-in-contrast) and, less frequently, [tone](/tags/life-in-tone). My goal is to present my perspective on the world or, to quote Garry Winogrand, _"I photograph to see what the world looks like in photographs."_
+A lot of the photographs you will find here can be categorized as [street photography](/tags/street-photography), capturing everyday life in [contrast](/tags/life-in-contrast) and, less frequently, [tone](/tags/life-in-tone). If you want a faster start, go directly to [Black and White Street Photography](/black-and-white-street-photography/) or [Fine Art Portraiture](/fine-art-portraiture/). My goal is to present my perspective on the world or, to quote Garry Winogrand, _"I photograph to see what the world looks like in photographs."_
 
 When I'm not roaming the streets I occasionally do [portrait assignments](/tags/portrait) or more [conceptual work](/tags/phart), which you can find under [Phart](/tags/phart) (Photo Art). All post-processing and compositing I do in Adobe Photoshop, with which I have extensive experience. If you're stuck on an image and need some help, or you have an old photo you would like restored, I can help out. For more general post-processing and retouching, I'm available as well.
 
@@ -31,7 +31,7 @@ I invite you to take a look at my portfolio and hope my work is able to move you
 
 Zone.Photos focuses on creating fine art portraiture and related creative works in and around the region of The Hague. We're based in Monster, in the Westland region just outside The Hague.
 
-It is possible to buy prints of my work or license them. Please contact me for more details.
+It is possible to buy prints of my work or license them. Please contact me for more details through the contact section below.
 
 <div class="center mt-6" id="contact-me"><i class="fa-regular fa-envelope fa-2xl"></i></div>
 

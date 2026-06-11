@@ -9,3 +9,5 @@ images:
 Phart is the home for the more constructed side of the portfolio: layered edits, surreal concepts, and images that lean into digital composition.
 
 If you are looking for work that leaves documentary realism behind and moves into visual invention, start here.
+
+If you want the broader entry page for this side of the portfolio, start with [Fine Art Portraiture](/fine-art-portraiture/) or [About](/about/).

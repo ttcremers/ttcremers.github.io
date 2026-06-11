@@ -9,3 +9,5 @@ images:
 Black and white is where much of the site’s visual language becomes most direct. Tone, gesture, and structure take over from color, and the pictures lean harder on composition and contrast.
 
 Use this tag when you want the monochrome work without narrowing it down to a single subject.
+
+If you want the broader portfolio entry page, start with [Black and White Street Photography](/black-and-white-street-photography/) or [Life in Contrast](/tags/life-in-contrast/).

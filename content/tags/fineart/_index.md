@@ -9,3 +9,5 @@ images:
 Fine art work on this site is where intention matters as much as the final image. These photographs are made to communicate mood, concept, or a personal visual idea rather than to document a scene as literally as possible.
 
 This tag is useful if you are looking for the more authored side of the portfolio.
+
+If you want the broader portfolio entry page, start with [Fine Art Portraiture](/fine-art-portraiture/) or [Phart](/tags/phart/).

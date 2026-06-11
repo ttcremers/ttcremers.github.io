@@ -1,0 +1,134 @@
+{{- if not (or .IsHome (eq .RelPermalink "/about/") (eq .Params.pageType "landing")) -}}
+{{- $links := slice -}}
+{{- $seen := slice -}}
+{{- $linkMap := dict
+  "fineart" (slice
+    (dict "name" "Fine Art Portraiture" "url" "/fine-art-portraiture/")
+    (dict "name" "Portrait Photography" "url" "/tags/portrait/")
+    (dict "name" "Phart" "url" "/tags/phart/")
+    (dict "name" "Contact" "url" "/about/#contact-me")
+  )
+  "portrait" (slice
+    (dict "name" "Fine Art Portraiture" "url" "/fine-art-portraiture/")
+    (dict "name" "Women" "url" "/tags/women/")
+    (dict "name" "Contact" "url" "/about/#contact-me")
+  )
+  "street-photography" (slice
+    (dict "name" "Black and White Street Photography" "url" "/black-and-white-street-photography/")
+    (dict "name" "Life in Contrast" "url" "/tags/life-in-contrast/")
+    (dict "name" "My Poland" "url" "/tags/my-poland/")
+    (dict "name" "Contact" "url" "/about/#contact-me")
+  )
+  "black-and-white" (slice
+    (dict "name" "Black and White Street Photography" "url" "/black-and-white-street-photography/")
+    (dict "name" "Life in Contrast" "url" "/tags/life-in-contrast/")
+    (dict "name" "Contact" "url" "/about/#contact-me")
+  )
+  "poland" (slice
+    (dict "name" "My Poland" "url" "/tags/my-poland/")
+    (dict "name" "Life in Contrast" "url" "/tags/life-in-contrast/")
+    (dict "name" "Contact" "url" "/about/#contact-me")
+  )
+  "holga" (slice
+    (dict "name" "Black and White Street Photography" "url" "/black-and-white-street-photography/")
+    (dict "name" "Life in Contrast" "url" "/tags/life-in-contrast/")
+    (dict "name" "Contact" "url" "/about/#contact-me")
+  )
+  "flash" (slice
+    (dict "name" "Fine Art Portraiture" "url" "/fine-art-portraiture/")
+    (dict "name" "Black and White Street Photography" "url" "/black-and-white-street-photography/")
+    (dict "name" "Contact" "url" "/about/#contact-me")
+  )
+  "van-dyke-brown" (slice
+    (dict "name" "Fine Art Portraiture" "url" "/fine-art-portraiture/")
+    (dict "name" "Phart" "url" "/tags/phart/")
+    (dict "name" "Contact" "url" "/about/#contact-me")
+  )
+  "phart" (slice
+    (dict "name" "Fine Art Portraiture" "url" "/fine-art-portraiture/")
+    (dict "name" "Phart" "url" "/tags/phart/")
+    (dict "name" "Contact" "url" "/about/#contact-me")
+  )
+  "/fine-art-photography/" (slice
+    (dict "name" "Fine Art Portraiture" "url" "/fine-art-portraiture/")
+    (dict "name" "Portrait Photography" "url" "/tags/portrait/")
+    (dict "name" "Contact" "url" "/about/#contact-me")
+  )
+  "/street-photography-my-poland/" (slice
+    (dict "name" "Black and White Street Photography" "url" "/black-and-white-street-photography/")
+    (dict "name" "My Poland" "url" "/tags/my-poland/")
+    (dict "name" "Life in Contrast" "url" "/tags/life-in-contrast/")
+    (dict "name" "Contact" "url" "/about/#contact-me")
+  )
+  "/how-to-calculate-flash-exposure/" (slice
+    (dict "name" "Fine Art Portraiture" "url" "/fine-art-portraiture/")
+    (dict "name" "Black and White Street Photography" "url" "/black-and-white-street-photography/")
+    (dict "name" "Contact" "url" "/about/#contact-me")
+  )
+  "/instant-film-holgaroid/" (slice
+    (dict "name" "Black and White Street Photography" "url" "/black-and-white-street-photography/")
+    (dict "name" "Life in Contrast" "url" "/tags/life-in-contrast/")
+    (dict "name" "Contact" "url" "/about/#contact-me")
+  )
+  "/van-dyke-brown-contact-print-tips/" (slice
+    (dict "name" "Fine Art Portraiture" "url" "/fine-art-portraiture/")
+    (dict "name" "Phart" "url" "/tags/phart/")
+    (dict "name" "Contact" "url" "/about/#contact-me")
+  )
+  "/holga-gn-sunny-cloudy-switch/" (slice
+    (dict "name" "Black and White Street Photography" "url" "/black-and-white-street-photography/")
+    (dict "name" "Life in Contrast" "url" "/tags/life-in-contrast/")
+    (dict "name" "Contact" "url" "/about/#contact-me")
+  )
+-}}
+
+{{- if eq .RelPermalink "/about/" -}}
+  {{- $links = slice
+    (dict "name" "Fine Art Portraiture" "url" "/fine-art-portraiture/")
+    (dict "name" "Black and White Street Photography" "url" "/black-and-white-street-photography/")
+    (dict "name" "Life in Contrast" "url" "/tags/life-in-contrast/")
+    (dict "name" "Contact" "url" "/about/#contact-me")
+  -}}
+{{- else -}}
+  {{- $terms := slice -}}
+  {{- range .Params.tags -}}
+    {{- $terms = $terms | append . -}}
+  {{- end -}}
+  {{- range .Params.categories -}}
+    {{- $terms = $terms | append . -}}
+  {{- end -}}
+  {{- range $tag := $terms -}}
+    {{- with index $linkMap $tag -}}
+      {{- range $candidate := . -}}
+        {{- if not (in $seen $candidate.url) -}}
+          {{- $links = $links | append $candidate -}}
+          {{- $seen = $seen | append $candidate.url -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+  {{- if eq (len $links) 0 -}}
+    {{- $links = slice
+      (dict "name" "Fine Art Portraiture" "url" "/fine-art-portraiture/")
+      (dict "name" "Black and White Street Photography" "url" "/black-and-white-street-photography/")
+      (dict "name" "My Poland" "url" "/tags/my-poland/")
+      (dict "name" "Contact" "url" "/about/#contact-me")
+    -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if gt (len $links) 0 -}}
+<div class="center">
+  <div class="slide-info">
+    <div class="content">
+      <p><strong>Portfolio path</strong></p>
+      <ul>
+        {{- range $links -}}
+          <li><a href="{{ .url }}">{{ .name }}</a></li>
+        {{- end -}}
+      </ul>
+    </div>
+  </div>
+</div>
+{{- end -}}
+{{- end -}}
