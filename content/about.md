@@ -2,9 +2,9 @@
 images:
   - /images/thomas-beanie-sized.jpg
 multipleColumn: true
-title: About
-subtitle: "Fine art portraiture, street photography, and photo art from Monster, just outside The Hague."
-description: "About Thomas T. Cremers, a photographer working in fine art portraiture, street photography, and conceptual photo art from Monster, The Netherlands."
+title: About Thomas T. Cremers
+subtitle: "Fine art photographer in The Hague, working with portraiture, street photography, and conceptual photo art."
+description: "About Thomas T. Cremers, a fine art photographer in The Hague creating authored portraits, black and white street photography, and conceptual photo art."
 url: about
 hideTitle: true
 hideExif: true
@@ -13,15 +13,16 @@ hideDate: true
 
 ---
 
-Situated in the Dutch coastline city The Hague, I've been developing my photography skills over the past 20 years, always directed by my passion for the art of photography and the need to document life as I experience it.
+I'm Thomas T. Cremers, a fine art photographer in The Hague. I've been developing my photography over the past 20 years, always directed by my passion for the art of photography and the need to document life as I experience it.
 
 **What I focus on**
 
-- [Black and white street photography](/black-and-white-street-photography/)
+- [Fine art photography in The Hague](/fine-art-photographer-the-hague/)
 - [Fine art portraiture](/fine-art-portraiture/)
+- [Black and white street photography](/black-and-white-street-photography/)
 - [Conceptual photo art and composites](/tags/phart/)
 
-A lot of the photographs you will find here can be categorized as [street photography](/tags/street-photography), capturing everyday life in [contrast](/tags/life-in-contrast) and, less frequently, [tone](/tags/life-in-tone). If you want a faster start, go directly to [Black and White Street Photography](/black-and-white-street-photography/) or [Fine Art Portraiture](/fine-art-portraiture/). My goal is to present my perspective on the world or, to quote Garry Winogrand, _"I photograph to see what the world looks like in photographs."_
+A lot of the photographs you will find here can be categorized as [street photography](/tags/street-photography), capturing everyday life in [contrast](/tags/life-in-contrast) and, less frequently, [tone](/tags/life-in-tone). If you want a faster start, go directly to [Fine Art Photographer in The Hague](/fine-art-photographer-the-hague/), [Black and White Street Photography](/black-and-white-street-photography/) or [Fine Art Portraiture](/fine-art-portraiture/). My goal is to present my perspective on the world or, to quote Garry Winogrand, _"I photograph to see what the world looks like in photographs."_
 
 When I'm not roaming the streets I occasionally do [portrait assignments](/tags/portrait) or more [conceptual work](/tags/phart), which you can find under [Phart](/tags/phart) (Photo Art). All post-processing and compositing I do in Adobe Photoshop, with which I have extensive experience. If you're stuck on an image and need some help, or you have an old photo you would like restored, I can help out. For more general post-processing and retouching, I'm available as well.
 
@@ -29,7 +30,7 @@ I enjoy working with models and/or clients who value quality over quantity. My a
 
 I invite you to take a look at my portfolio and hope my work is able to move you in some way.
 
-Zone.Photos focuses on creating fine art portraiture and related creative works in and around the region of The Hague. We're based in Monster, in the Westland region just outside The Hague.
+Zone Photos focuses on fine art portraiture and related creative works in and around The Hague. The work also reaches into black and white street photography, conceptual photo art, and photography essays.
 
 It is possible to buy prints of my work or license them. Please contact me for more details through the contact section below.
 
@@ -49,7 +50,7 @@ It is possible to buy prints of my work or license them. Please contact me for m
       "name": "What kind of photography do you specialize in?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "I specialize in creative fine art portraiture and do a lot of street photography. When working on candid portrait assignments, I use a similar approach to the one I use on the street."
+        "text": "I specialize in creative fine art portraiture, black and white street photography, and conceptual photo art."
       }
     },
     {
@@ -57,7 +58,7 @@ It is possible to buy prints of my work or license them. Please contact me for m
       "name": "Where are you located?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "I'm based in Monster, just outside The Hague in the Westland region of the Netherlands."
+        "text": "I'm based in The Hague, The Netherlands, and work in and around the city and the wider region."
       }
     },
     {
