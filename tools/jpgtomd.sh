@@ -39,6 +39,13 @@ frontmatter_escape() {
   echo "$1" | sed 's/"/\\"/g'
 }
 
+write_tags() {
+  local tag
+  for tag in "$@"; do
+    echo "- ${tag}"
+  done
+}
+
 cd "${IMG_DIR}"
 
 shopt -s nullglob
@@ -91,17 +98,18 @@ for f in "${files[@]}"; do
         | sort -u
     )
 
-    cat > "${MD_DIR}/${md_slug}-${i}.md" << EOT
----
-images:
-- /images/$(basename "${IMG_DIR}")/${f}
-title: "${title}"
-description: "${description}"
-imageAlt: "${image_alt}"
-tags:
-$(printf -- "- %s\n" "${tags[@]}")hideExif: true
-hideTitle: true
-hideDate: true
----
-EOT
+    {
+      echo "---"
+      echo "images:"
+      echo "- /images/$(basename "${IMG_DIR}")/${f}"
+      echo "title: \"${title}\""
+      echo "description: \"${description}\""
+      echo "imageAlt: \"${image_alt}\""
+      echo "tags:"
+      write_tags "${tags[@]}"
+      echo "hideExif: true"
+      echo "hideTitle: true"
+      echo "hideDate: true"
+      echo "---"
+    } > "${MD_DIR}/${md_slug}-${i}.md"
 done
