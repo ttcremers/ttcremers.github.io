@@ -11,8 +11,8 @@ params:
   sitename: Zone Photos
   googleAnalyticsId: 'G-GBLD7612EJ'
   image: /images/banner.png
-  subtitle: "Fine art portraiture, black and white street photography, and conceptual photo art from Monster, The Netherlands."
-  description: "Zone Photos is the portfolio of Thomas T. Cremers, a photographer working in fine art portraiture, black and white street photography, and conceptual photo art from Monster near The Hague."
+  subtitle: "Fine art photography, authored portraits, and black and white street photography from The Hague, The Netherlands."
+  description: "Zone Photos is the portfolio of Thomas T. Cremers, a fine art photographer in The Hague working with authored portraiture, black and white street photography, and conceptual photo art."
   copyright: All rights reserved.
   author: Thomas T. Cremers
   dontShowSource: false # please, do not do this :)
@@ -58,27 +58,30 @@ permalinks:
 
 menu:
   main:
+    - name: Fine Art Photographer in The Hague
+      url: /fine-art-photographer-the-hague/
+      weight: 1
+    - name: Fine Art Portraiture
+      url: /fine-art-portraiture/
+      weight: 2
     - name: Life in Contrast
       url: /tags/life-in-contrast/
-      weight: 1
+      weight: 3
     - name: Life in Tone
       url: /tags/life-in-tone/
-      weight: 2
+      weight: 4
     - name: Phart
       url: /tags/phart/
-      weight: 3
-    - name: Women
-      url: /tags/women/
       weight: 5
     - name: about
       url: /about/
       weight: 8
   more:
-    - name: Fine Art Portraiture
-      url: /fine-art-portraiture/
-      weight: 1
     - name: Black and White Street Photography
       url: /black-and-white-street-photography/
+      weight: 1
+    - name: Conceptual Photo Art
+      url: /tags/phart/
       weight: 2
     - name: My Poland
       url: /tags/my-poland/
