@@ -16,14 +16,17 @@ nav.navbar {
 }
 
 .navbar-burger {
+  box-sizing: border-box;
   color: var(--lt-color-gray-500);
   background: transparent;
   border: 0;
   cursor: pointer;
   display: block;
+  font-weight: inherit;
   height: 4.25rem;
   width: 4.25rem;
   margin-left: auto;
+  transform: none;
 }
 
 .navbar-burger:hover,
@@ -31,6 +34,9 @@ nav.navbar {
 .navbar-burger.is-active {
   color: var(--white);
   background-color: var(--main);
+  border: 0;
+  font-weight: inherit;
+  transform: none;
 }
 
 .navbar-item img {
@@ -71,22 +77,32 @@ nav.navbar .navbar-dropdown {
   text-overflow: ellipsis;
 }
 
+.navbar .navbar-item,
+.navbar .navbar-link {
+  box-sizing: border-box;
+  border: 0;
+  color: var(--lt-color-gray-500);
+  font-weight: inherit;
+  line-height: 1.5;
+  min-height: 3rem;
+  text-transform: uppercase;
+  transform: none;
+}
+
 .navbar a:active, .navbar a:hover,
 .navbar a:focus, .navbar a:focus,
 .navbar a.active:focus, .navbar a.active:focus,
 .navbar a.active:active, .navbar a.active:hover {
   color: var(--white);
   background-color: var(--main);
+  border: 0;
+  font-weight: inherit;
+  transform: none;
 }
 
 .has-dropdown:hover .navbar-link {
   background-color: initial !important;
   border: 0 !important;
-}
-
-.navbar-item, .navbar-link {
-  color: var(--lt-color-gray-500);
-  text-transform: uppercase;
 }
 
 .navbar-link::after {
