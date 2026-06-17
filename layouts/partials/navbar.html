@@ -6,7 +6,7 @@
 {{ if and .IsHome $socials }}
     {{ $socials = where $socials "landing" true }}
 {{ end }}
-<nav class="navbar is-fixed-top" role="navigation" aria-label="main navigation">
+<nav class="navbar is-fixed-top zonepub-collapsed-navbar" role="navigation" aria-label="main navigation">
     <div class="navbar-brand">
       <a href={{ relref . "/" }} class="navbar-item">
         <picture>
@@ -16,17 +16,16 @@
         </picture>
       </a>
 
-        <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="mainNavbar">
+        <button type="button" class="navbar-burger" aria-label="Open main menu" aria-expanded="false" aria-controls="mainNavbar" data-target="mainNavbar">
           <span aria-hidden="true"></span>
           <span aria-hidden="true"></span>
           <span aria-hidden="true"></span>
-        </a>
+        </button>
     </div>
 
     <div id="mainNavbar" class="navbar-menu">
       <div class="navbar-start">
             {{ if and .Site.Menus .Site.Menus.main }}
-              {{ $lastIndex := sub (len .Site.Menus.main) 1 }}
               {{ $currentPage := .RelPermalink }}
               {{ range $i, $el := .Site.Menus.main }}
                   {{ $active := "" }}
@@ -36,24 +35,15 @@
                   <a class="{{ $active }} navbar-item" href="{{ $el.URL }}">{{ $el.Name }}</a>
               {{ end }}
             {{ end }}
-            {{ if and .Site.Menus .Site.Menus.main }}
-            <div class="navbar-item has-dropdown is-hoverable">
-              <a class="navbar-link" href="#articles-and-publications">
-                <span>Articles & Publications</span>
-              </a>
-
-              <div class="navbar-dropdown">
-                {{ $lastIndex := sub (len .Site.Menus.more) 1 }}
-                {{ $currentPage := .RelPermalink }}
-                {{ range $i, $el := .Site.Menus.more }}
-                    {{ $active := "" }}
-                    {{ if eq $el.URL $currentPage }}
-                        {{ $active = "active" }}
-                    {{ end }}
-                    <a class="navbar-item {{ $active }}" href="{{ $el.URL }}">{{ $el.Name }}</a>
-                {{ end }}
-              </div>
-            </div>
+            {{ if and .Site.Menus .Site.Menus.more }}
+              {{ $currentPage := .RelPermalink }}
+              {{ range $i, $el := .Site.Menus.more }}
+                  {{ $active := "" }}
+                  {{ if eq $el.URL $currentPage }}
+                      {{ $active = "active" }}
+                  {{ end }}
+                  <a class="navbar-item {{ $active }}" href="{{ $el.URL }}">{{ $el.Name }}</a>
+              {{ end }}
             {{ end }}
       </div>
       <div class="navbar-end">
