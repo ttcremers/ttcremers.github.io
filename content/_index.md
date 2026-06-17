@@ -1,5 +1,6 @@
 ---
-desc: Fine art photography, authored portraiture, black and white street photography, and conceptual photo art from The Hague. Start with the strongest entry pages below: local fine art photography, portrait work, street photography, and constructed photo art.
+desc: >-
+  Fine art photography, authored portraiture, black and white street photography, and conceptual photo art from The Hague. Start with the strongest entry pages below: local fine art photography, portrait work, street photography, and constructed photo art.
 featuredTags:
   - title: Fine Art Photographer in The Hague
     alt: fine art photography portfolio by Thomas T. Cremers in The Hague
