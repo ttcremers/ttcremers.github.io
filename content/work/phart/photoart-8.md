@@ -1,7 +1,8 @@
 ---
 images:
 - /images/phart/zonephotos-photoart-7.jpg
-title: photoart
+title: "Photo Art, No. 8"
+description: "Conceptual photo art by Thomas T. Cremers — creative photography combining technique and imagination."
 tags:
 - fineart
 - composit

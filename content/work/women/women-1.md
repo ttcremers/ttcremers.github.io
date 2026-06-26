@@ -1,7 +1,8 @@
 ---
 images:
 - /images/women/zonephotos-women-10.jpg
-title: women
+title: "Women, No. 1"
+description: "Fine art portrait photograph from the Women series by Thomas T. Cremers, a fine art photographer in The Hague."
 weight: 5
 tags:
 - boudoir

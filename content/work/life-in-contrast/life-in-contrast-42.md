@@ -1,7 +1,8 @@
 ---
 images:
 - /images/life-in-contrast/zonephotos-life-in-contrast-47.jpg
-title: Life in Contrast
+title: "Life in Contrast, No. 42"
+description: "Black and white street photograph from the Life in Contrast series — fine art photography by Thomas T. Cremers."
 tags:
 - fineart
 - black-and-white

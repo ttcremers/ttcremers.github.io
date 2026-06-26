@@ -86,23 +86,10 @@
 {{ partial "header.html" . }}
 {{ partial "navbar.html" . }}
 
+{{ if .Title }}<h1 style="position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0">{{ .Title }}</h1>{{ end }}
+
 <section id="desktop" class="section work">
 	{{ partial "helpers/hidden-menu.html" . }}
-	{{ if or .Content .Description .Params.subtitle }}
-		<div class="center">
-			<div class="slide-info">
-				<div class="content">
-					{{ with .Description }}
-						<p>{{ . }}</p>
-					{{ end }}
-					{{ with .Params.subtitle }}
-						<p>{{ . }}</p>
-					{{ end }}
-					{{ .Content }}
-				</div>
-			</div>
-		</div>
-	{{ end }}
 	{{ partial "slides/slider" (dict "scratch" $portfolioScratch "type" "desktop" "ctx" .) }}
 </section>
 

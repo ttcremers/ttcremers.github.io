@@ -1,6 +1,7 @@
 ---
 multipleColumn: true
 title: qr
+noindex: true
 subtitle: "Share zone.photos with your friends using this QR code!"
 url: qr
 hideTitle: true
